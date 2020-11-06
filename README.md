@@ -11,8 +11,6 @@
 * Caching
 * Scheduling
 * AMQP
-* RDB & JDBC & JPA
-* MongoDB
 * Test
 * TDD
 * Deploy
@@ -21,3 +19,6 @@
 * Document
 * Extensions
 * Why KT
+* Security
+* Cloud
+* Data
