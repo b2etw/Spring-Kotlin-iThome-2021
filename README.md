@@ -1,21 +1,40 @@
 # Spring-Kotlin-iThome-2021
 
-* Introduction & Setup
+* 1. Introduction & Setup
 ```
 ```
-* IOC & DI
+* 2. IOC & DI
 ```
 ```
-* Web MVC & 3 Tier
+* 3. Web MVC & 3 Tier
 ```
 ```
-* AOP
+* 4. AOP
 ```
 ```
-* Spring Data (RDB)
+* 5. Spring Data (RDB)
 ```
 ```
-* Spring Data (NoSQL)
+* 6. Spring Data (NoSQL)
+```
+```
+* 7. Security
+```
+```
+* 8. Caching
+```
+```
+* Scheduling
+```
+```
+* Test
+```
+```
+* TDD
+```
+```
+* DevOps
+* 30. Conclusion
 ```
 ```
 
@@ -24,11 +43,7 @@
 
 
 * Webflux
-* Caching
-* Scheduling
 * AMQP
-* Test
-* TDD
 * Deploy
 * Actuator
 * ControllerAdvice
