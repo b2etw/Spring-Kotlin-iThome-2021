@@ -1,12 +1,28 @@
 # Spring-Kotlin-iThome-2021
-> Spring-Kotlin-iThome-2021
 
-
-
-* Setup
+* Introduction & Setup
+```
+```
 * IOC & DI
+```
+```
+* Web MVC & 3 Tier
+```
+```
 * AOP
-* Web MVC
+```
+```
+* Spring Data (RDB)
+```
+```
+* Spring Data (NoSQL)
+```
+```
+
+
+
+
+
 * Webflux
 * Caching
 * Scheduling
