@@ -2,6 +2,14 @@
 * https://spring.io/
 * https://kotlinlang.org/
   * Why I Love Kotlin ?
+    * JVM Family
+    * Syntax
+      * Simplify
+      * Null Safety
+      * ...
+    * Data Class
+    * Scope Function
+    * Extension Function
 * https://docs.spring.io/spring-framework/docs/current/reference/html/languages.html#kotlin
 * https://tw.kotlin.tips/
   * Study Group
@@ -16,7 +24,7 @@
   * devops
   * architecture
 * Introduction
-  * view the main mindmap
+  * view the main mindmap https://github.com/b2etw/Spring-Kotlin-iThome-2021
 * Ending
   * https://jianminhuang.cc
-  * Give a Star https://github.com/b2etw/Spring-Kotlin-iThome-2021
+  * Give Me a Star 😄 https://github.com/b2etw/Spring-Kotlin-iThome-2021
