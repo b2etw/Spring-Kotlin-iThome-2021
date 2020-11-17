@@ -5,3 +5,7 @@
 * https://tw.kotlin.tips/
 * https://www.jetbrains.com/idea/
 * First Hello Project
+* Principle
+  * backend, devops, architecture
+* Introduction
+  * view the main mindmap
