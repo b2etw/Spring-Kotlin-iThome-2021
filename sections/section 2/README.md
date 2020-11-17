@@ -1,5 +1,8 @@
 # Section-2 3-Tier
-* 1
+* Backend 3-Tier
+  * Controller
+  * Service
+  * Repository
 * Ending
   * https://tw.kotlin.tips/
   * https://jianminhuang.cc
