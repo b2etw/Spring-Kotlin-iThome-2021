@@ -6,7 +6,7 @@
     * Syntax
       * Simplify
       * Null Safety
-      * ...
+      * More Modern
     * Data Class
     * Scope Function
     * Extension Function
