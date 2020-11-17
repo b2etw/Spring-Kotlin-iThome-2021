@@ -27,4 +27,4 @@
   * view the main mindmap https://github.com/b2etw/Spring-Kotlin-iThome-2021
 * Ending
   * https://jianminhuang.cc
-  * Give Me a Star 😄 https://github.com/b2etw/Spring-Kotlin-iThome-2021
+  * Give Me a Star 😄  https://github.com/b2etw/Spring-Kotlin-iThome-2021
