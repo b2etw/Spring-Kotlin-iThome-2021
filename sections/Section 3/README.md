@@ -1,5 +1,6 @@
 # Section-3 IOC/DI
 * Show a Old Spring Java Sample for DI
+  * https://www.baeldung.com/spring-show-all-beans
 * Explian IOC
 * Ending
   * https://tw.kotlin.tips/
