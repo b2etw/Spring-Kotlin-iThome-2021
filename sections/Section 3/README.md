@@ -14,3 +14,6 @@
 * https://openhome.cc/Gossip/Spring/IoC.html
 * https://openhome.cc/Gossip/SpringGossip/DI.html
 * https://www.baeldung.com/spring-xml-injection
+* https://www.baeldung.com/spring-annotations-resource-inject-autowire
+* https://reflectoring.io/constructor-injection/
+* http://olivergierke.de/2013/11/why-field-injection-is-evil/
