@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns="http://www.springframework.org/schema/beans"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-3.2.xsd
+	http://www.springframework.org/schema/context
+	http://www.springframework.org/schema/context/spring-context-3.2.xsd">
+
+    <!-- Scan for spring annotated components -->
+    <context:component-scan base-package="org.yfr"/>
+    <!-- Process annotations on registered beans like @Autowired... -->
+    <context:annotation-config/>
+
+<!--    <bean id="repositoryA" class="org.yfr.RepositoryA">-->
+<!--        <property name="name" value="John"/>-->
+<!--    </bean>-->
+
+<!--    <bean id="serviceA" class="org.yfr.ServiceA">-->
+<!--        <constructor-arg index="0" ref="repositoryA"/>-->
+<!--    </bean>-->
+
+<!--    <bean id="serviceB" class="org.yfr.ServiceB">-->
+<!--        <property name="repository" ref="repositoryA"/>-->
+<!--    </bean>-->
+
+<!--    <bean id="controller" class="org.yfr.Controller">-->
+<!--        <property name="service" ref="serviceA"/>-->
+<!--    </bean>-->
+</beans>
