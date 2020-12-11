@@ -1,15 +1,9 @@
 # Section-4 MVC
 * https://docs.spring.io/spring-framework/docs/current/reference/html/web.html
 * Base on Section 2
-  * @RestController, @GetMapping, @PostMapping, @PutMapping, @DeleteMapping (@Controller, @RequestMapping)
+  * @RestController, @GetMapping, @PostMapping, @PutMapping, @DeleteMapping, ResponseEntity (@Controller, @RequestMapping, @ResponseBody)
   * @RequestHeader, @RequestParam, @PathVariable, @RequestBody, HttpServletRequest, HttpServletResponse
-  * ResponseEntity
-* Special Subject
-  * Multipart
-  * CORS
-  * sse
-  * long polling
-  * websocket
+  * jsp, jstl, ModelAndView
 * Ending
   * https://tw.kotlin.tips/
   * https://jianminhuang.cc
