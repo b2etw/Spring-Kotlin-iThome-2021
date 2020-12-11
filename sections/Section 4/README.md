@@ -2,7 +2,6 @@
 * https://docs.spring.io/spring-framework/docs/current/reference/html/web.html
 * Base on Section 2
   * @RestController, @GetMapping, @PostMapping, @PutMapping, @DeleteMapping (@Controller, @RequestMapping)
-  * https://openhome.cc/Gossip/SpringGossip/FirstSpringMVC.html
   * @RequestHeader, @RequestParam, @PathVariable, @RequestBody, HttpServletRequest, HttpServletResponse
   * ResponseEntity
 * Special Subject
@@ -17,4 +16,4 @@
   * Give Me a Star 😄 https://github.com/b2etw/Spring-Kotlin-iThome-2021
 
 # References
-* 1
+* https://openhome.cc/Gossip/SpringGossip/FirstSpringMVC.html
