@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.PutMapping
 import org.springframework.web.bind.annotation.RequestBody
 import org.springframework.web.bind.annotation.RequestParam
 import org.springframework.web.bind.annotation.RestController
+import javax.servlet.http.HttpServletRequest
 
 @RestController
 class UserController(
@@ -16,7 +17,7 @@ class UserController(
 ) {
 
     @PostMapping("/user")
-    fun addUser(@RequestBody userDto: UserDto) = userService.addUser(userDto)
+    fun addUser(@RequestBody userDto: UserDto, req: HttpServletRequest) = userService.addUser(userDto)
 
     @GetMapping("/user")
     fun findUserById(@RequestParam id: Long) = userService.findUserById(id)
