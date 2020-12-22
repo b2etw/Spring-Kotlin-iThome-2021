@@ -4,7 +4,7 @@
   * https://hub.docker.com/_/mysql
   * docker run --name mysql -d -p 3306:3306 -e “TZ=Asia/Taipei” -e MYSQL_ROOT_PASSWORD=rootroot mysql:8
 * Entity (ddl)
-  * Id and Column Type
+  * Id (seq, uuid), Column (number, string, datetime)
 * Repository -> findByXXX, save, delete
 * Query JOIN, CUD
 * Ending
