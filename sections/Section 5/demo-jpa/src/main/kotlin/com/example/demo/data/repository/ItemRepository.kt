@@ -10,13 +10,13 @@ import javax.transaction.Transactional
 
 interface ItemRepository : JpaRepository<Item, Long>, JpaSpecificationExecutor<Item> {
 
-    @Query("UPDATE Item i SET i.price = 100 WHERE i.name = :name")
+    @Query("UPDATE Item i SET i.price = :price WHERE i.name = :name")
     @Modifying
     @Transactional
-    fun updateSoccer(@Param("name") name: String)
+    fun updateAllSoccerPrice(@Param("price") price: Float, @Param("name") name: String)
 
     @Query("DELETE FROM Item i WHERE i.name = :name")
     @Modifying
     @Transactional
-    fun deleteSoccer(@Param("name") name: String): Int
+    fun deleteAllSoccer(@Param("name") name: String): Int
 }

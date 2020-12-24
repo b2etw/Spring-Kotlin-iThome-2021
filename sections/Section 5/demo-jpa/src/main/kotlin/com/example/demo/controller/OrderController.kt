@@ -1,6 +1,5 @@
 package com.example.demo.controller
 
-import com.example.demo.data.dto.OrderDto
 import com.example.demo.data.entity.Item
 import com.example.demo.data.entity.Orderz
 import com.example.demo.data.enu.OrderStatus
@@ -24,35 +23,40 @@ class OrderController(
 ) {
 
     @GetMapping("/orders")
-    fun get(@RequestParam("id") id: String): ResponseEntity<Orderz> {
-        return ResponseEntity.ok(orderzRepository.findById(id).orElseThrow { RuntimeException() })
+    fun get(@RequestParam("id") id: String) = run {
+        ResponseEntity.ok(orderzRepository.findById(id).orElseThrow { RuntimeException() })
     }
+
     @GetMapping("/full/orders")
-    fun getFull(@RequestParam("id") id: String): ResponseEntity<OrderDto> {
-        return ResponseEntity.ok(orderzRepository.findFullOrderByIAd(id))
+    fun getFull(@RequestParam("id") id: String) = run {
+        ResponseEntity.ok(orderzRepository.findFullOrderByIAd(id))
     }
 
     @PostMapping("/orders")
-    fun post() : ResponseEntity<String> {
+    fun post() = run {
         val item = Item(null, 10.0f, "soccer")
-        val saveItem = itemRepository.save(item)
+        itemRepository.save(item)
+    }.run {
+        val order = Orderz(
+            null,
+            this.id!!,
+            1,
+            1 * this.price.toDouble(),
+            OrderStatus.INITIAL,
+            LocalDateTime.now(),
+            OffsetDateTime.now(ZoneOffset.UTC)
+        )
 
-        val order = Orderz(null, saveItem.id!!, 1, 1* item.price.toDouble(), OrderStatus.INITIAL, LocalDateTime.now(), OffsetDateTime.now(ZoneOffset.UTC))
-        val save = orderzRepository.save(order)
-
-        return ResponseEntity.ok("Success")
+        ResponseEntity.ok(orderzRepository.save(order))
     }
 
     @PutMapping("/orders")
-    fun put(): ResponseEntity<String> {
-        itemRepository.updateSoccer("soccer")
-
-        return ResponseEntity.ok("Success")
+    fun put() = run {
+        ResponseEntity.ok(itemRepository.updateAllSoccerPrice(100.0f, "soccer"))
     }
 
     @DeleteMapping("/orders")
-    fun delete(): ResponseEntity<String> {
-        val deleteSoccerCount = itemRepository.deleteSoccer("soccer")
-        return ResponseEntity.ok(deleteSoccerCount.toString())
+    fun delete() = run {
+        ResponseEntity.ok(itemRepository.deleteAllSoccer("soccer"))
     }
 }

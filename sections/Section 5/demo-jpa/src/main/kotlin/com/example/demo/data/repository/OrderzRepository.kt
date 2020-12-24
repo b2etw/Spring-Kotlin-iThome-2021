@@ -11,7 +11,9 @@ interface OrderzRepository : JpaRepository<Orderz, String>, JpaSpecificationExec
 
     @Query("SELECT " +
             "new com.example.demo.data.dto.OrderDto(o.id, i.name, o.amount, o.totalPrice, o.status, o.orderTime, o.utcOrderTime) " +
-            "FROM Orderz o INNER JOIN Item i ON o.itemId = i.id " +
-            "WHERE o.id = :id")
+            "FROM " +
+            "Orderz o INNER JOIN Item i ON o.itemId = i.id " +
+            "WHERE " +
+            "o.id = :id")
     fun findFullOrderByIAd(@Param("id") id: String) : OrderDto
 }
