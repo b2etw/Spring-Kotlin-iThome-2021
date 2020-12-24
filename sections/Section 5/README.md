@@ -14,4 +14,5 @@
 
 # References
 * https://medium.com/@BalicantaYao/jpa-%E4%B8%AD-generatedvalue-%E7%9A%84%E4%B8%89%E7%A8%AE%E7%AD%96%E7%95%A5-bedebf1c076d
+* https://www.baeldung.com/spring-data-jpa-modifying-annotation
 * https://www.baeldung.com/jpa-java-time
