@@ -1,5 +1,5 @@
 # Spring-Kotlin-iThome-2021
-> I think output the knowledge in our head is the best way for learning. This tutorial is not only for you guys but also for myself to review what I learn these years. If you have any question please contact me. 😎
+> I think output the knowledge in our head is the best way for learning. This tutorial is not only for you guys but also for myself to review what I learn these years. If you have any question and feedback please contact me. 😎
 
 * [Session 1 Introduction](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/section%201)
 * [Session 2 3 Tier + Basic CRUD](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/section%202)
