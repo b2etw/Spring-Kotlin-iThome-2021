@@ -6,6 +6,8 @@
 * [Session 3 IOC/DI](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%203)
 * [Session 4 MVC](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%204)
 * [Session 5 JPA](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%205)
+* [Session 6 Unit Test](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%206)
+* [Session 7 CI & Docker](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%207)
 * https://www.youtube.com/playlist?list=PLMmM6ninWhrIb-THEEm5aQl9oH0M36HbZ
 
-![](https://raw.githubusercontent.com/b2etw/Spring-Kotlin-iThome-2021/main/images/Spring%20Kotlin%20iThome%202021%201215.png)
+![](https://raw.githubusercontent.com/b2etw/Spring-Kotlin-iThome-2021/main/images/Spring%20Kotlin%20iThome%202021%201224.png)
