@@ -1,5 +1,5 @@
 # Section-6 Unit Test
-* https://docs.spring.io/spring-framework/docs/current/reference/html/testing.html
+* https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-testing
 * Test 3A
   * Arrange
     * Class, Method, Variable and Mock
