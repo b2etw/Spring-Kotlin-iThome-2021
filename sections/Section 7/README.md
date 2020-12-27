@@ -8,4 +8,4 @@
   * Give Me a Star 😄 https://github.com/b2etw/Spring-Kotlin-iThome-2021
 
 # References
-* https://spring.io/guides/gs/testing-web/
+* https://battle.devopstw.club/
