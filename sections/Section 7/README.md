@@ -6,6 +6,7 @@
     * ref maven and use ide
 * Continuous Integration
 * Docker
+* CAAS, PAAS, IAAS, FAAS
 * Ending
   * https://tw.kotlin.tips/
   * https://jianminhuang.cc
