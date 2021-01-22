@@ -5,14 +5,16 @@
   * package library or fat jar
     * ref maven and use ide
 * Continuous Integration
-  * https://battle.devopstw.club/
+  * https://github.com/b2etw/event-2020-1-java/actions
 * Docker
   * Dockerfile
   * plugin
   * jib
+    * https://github.com/Jian-Min-Huang/tech-note/issues/32
 * CAAS, PAAS, IAAS
   * smoothly upgrade
-  * trace upgrade
+  * trace upgrade & failback
+  * configuration management
 * Ending
   * https://tw.kotlin.tips/
   * https://jianminhuang.cc
