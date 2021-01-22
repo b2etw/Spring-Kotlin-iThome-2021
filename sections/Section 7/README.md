@@ -5,8 +5,14 @@
   * package library or fat jar
     * ref maven and use ide
 * Continuous Integration
+  * https://battle.devopstw.club/
 * Docker
-* CAAS, PAAS, IAAS, FAAS
+  * Dockerfile
+  * plugin
+  * jib
+* CAAS, PAAS, IAAS
+  * smoothly upgrade
+  * trace upgrade
 * Ending
   * https://tw.kotlin.tips/
   * https://jianminhuang.cc
