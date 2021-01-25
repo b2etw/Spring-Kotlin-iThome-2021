@@ -14,9 +14,9 @@
 * [Session 11 Redis & Cache](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%2011)
 * [Session 12 AOP](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%2012)
 * [Session 13 Security](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%2013)
-* [Appendix 1 Why KT](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Appendix%201)
+* [Appendix 1 Why Kotlin](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Appendix%201)
 * [Appendix 2 Schedule](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Appendix%202)
 * [Appendix 3 Rest Repository](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Appendix%203)
 * https://www.youtube.com/playlist?list=PLMmM6ninWhrIb-THEEm5aQl9oH0M36HbZ
 
-![](https://raw.githubusercontent.com/b2etw/Spring-Kotlin-iThome-2021/main/images/Spring%20Kotlin%20iThome%202021%2001251.png)
+![](https://raw.githubusercontent.com/b2etw/Spring-Kotlin-iThome-2021/main/images/Spring%20Kotlin%20iThome%202021%2001252.png)
