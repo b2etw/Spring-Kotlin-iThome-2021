@@ -11,4 +11,4 @@
 * [Session 8 RestTemplate & OpenAPI](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%208)
 * https://www.youtube.com/playlist?list=PLMmM6ninWhrIb-THEEm5aQl9oH0M36HbZ
 
-![](https://raw.githubusercontent.com/b2etw/Spring-Kotlin-iThome-2021/main/images/Spring%20Kotlin%20iThome%202021%200103.png)
+![](https://raw.githubusercontent.com/b2etw/Spring-Kotlin-iThome-2021/main/images/Spring%20Kotlin%20iThome%202021%200125.png)
