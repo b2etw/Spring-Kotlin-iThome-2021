@@ -11,7 +11,8 @@
   * plugin
   * jib
     * https://github.com/Jian-Min-Huang/tech-note/issues/32
-* CAAS, PAAS, IAAS
+  * https://github.com/b2etw/Spring-Boot-Kotlin-Dojo/tree/master/stage4
+* IAAS, CAAS, PAAS, FAAS
   * smoothly upgrade
   * trace upgrade & failback
   * configuration management
