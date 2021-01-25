@@ -11,7 +11,11 @@ import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest
 import org.springframework.boot.test.mock.mockito.MockBean
 import org.springframework.http.MediaType
 import org.springframework.test.web.servlet.MockMvc
+import org.springframework.test.web.servlet.request.MockMvcRequestBuilders.delete
+import org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post
+import org.springframework.test.web.servlet.request.MockMvcRequestBuilders.put
+import org.springframework.test.web.servlet.result.MockMvcResultHandlers.print
 import org.springframework.test.web.servlet.result.MockMvcResultMatchers.content
 import org.springframework.test.web.servlet.result.MockMvcResultMatchers.status
 
@@ -28,29 +32,58 @@ class ItemControllerTests {
 
     @Test
     internal fun `test add item`() {
-        given(itemService.addItem(ItemDto(-1, "soccer", 30.0f))).willReturn(ItemDto(1, "soccer", 30.0f))
+        val itemDtoParam = ItemDto(-1, "soccer", 30.0f)
+        val itemDtoRtn = ItemDto(1, "soccer", 30.0f)
+        given(itemService.addItem(itemDtoParam)).willReturn(itemDtoRtn)
 
         mockMvc.perform(
             post("/items")
                 .contentType(MediaType.APPLICATION_JSON)
-                .content(objectMapper.writeValueAsBytes(ItemDto(-1, "soccer", 30.0f)))
+                .content(objectMapper.writeValueAsBytes(itemDtoParam))
         )
+            .andDo(print())
             .andExpect(status().isOk)
-            .andExpect(content().string(objectMapper.writeValueAsString(ItemDto(1, "soccer", 30.0f))))
+            .andExpect(content().string(objectMapper.writeValueAsString(itemDtoRtn)))
     }
 
     @Test
     internal fun `test query item by id`() {
-        TODO("Not yet implemented")
+        val itemDto = ItemDto(1L, "soccer", 30.0f)
+        given(itemService.queryItemById(1)).willReturn(itemDto)
+
+        mockMvc.perform(
+            get("/items")
+                .contentType(MediaType.APPLICATION_JSON)
+                .param("id", "1")
+        )
+            .andDo(print())
+            .andExpect(status().isOk)
+            .andExpect(content().string(objectMapper.writeValueAsString(itemDto)))
     }
 
     @Test
     internal fun `test modify item`() {
-        TODO("Not yet implemented")
+        val itemDto = ItemDto(1, "basketball", 60.0f)
+        given(itemService.modifyItem(itemDto)).willReturn(itemDto)
+
+        mockMvc.perform(
+            put("/items")
+                .contentType(MediaType.APPLICATION_JSON)
+                .content(objectMapper.writeValueAsBytes(itemDto))
+        )
+            .andDo(print())
+            .andExpect(status().isOk)
+            .andExpect(content().string(objectMapper.writeValueAsString(itemDto)))
     }
 
     @Test
     internal fun `test remove item by id`() {
-        TODO("Not yet implemented")
+        mockMvc.perform(
+            delete("/items")
+                .contentType(MediaType.APPLICATION_JSON)
+                .param("id", "1")
+        )
+            .andDo(print())
+            .andExpect(status().isOk)
     }
 }
