@@ -12,4 +12,4 @@
   * Give Me a Star 😄 https://github.com/b2etw/Spring-Kotlin-iThome-2021
 
 # References
-* ht
+* https://www.baeldung.com/spring-rest-openapi-documentation
