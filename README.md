@@ -8,7 +8,7 @@
 * [Session 5 JPA](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%205)
 * [Session 6 Unit Test](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%206)
 * [Session 7 CI & Docker](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%207)
-* [Session 8 RestTemplate & OpenAPI](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%208)
+* [Session 8 REST Clients & OpenAPI](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%208)
 * [Session 9 NoSQL](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%209)
 * [Session 10 Transactional](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%2010)
 * [Session 11 Cache](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%2011)
