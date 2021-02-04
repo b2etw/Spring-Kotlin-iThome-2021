@@ -12,5 +12,4 @@
   * Give Me a Star 😄 https://github.com/b2etw/Spring-Kotlin-iThome-2021
 
 # References
-* https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
-* https://battle.devopstw.club/
+* ht
