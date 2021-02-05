@@ -10,3 +10,4 @@
 # References
 * https://www.baeldung.com/spring-rest-openapi-documentation
 * https://stackoverflow.com/questions/59291371/migrating-from-springfox-swagger2-to-springdoc-openapi
+* https://www.baeldung.com/rest-template
