@@ -1,9 +1,12 @@
 # Appendix 2 Schedule
 * https://docs.spring.io/spring-framework/docs/current/reference/html/integration.html#scheduling
+* 1 to Many
 * Ending
   * https://tw.kotlin.tips/
   * https://jianminhuang.cc
   * Give Me a Star 😄 https://github.com/b2etw/Spring-Kotlin-iThome-2021
 
 # References
+* https://www.baeldung.com/spring-async
 * https://www.baeldung.com/spring-scheduled-tasks
+* https://stackoverflow.com/questions/29796651/what-is-the-default-scheduler-pool-size-in-spring-boot
