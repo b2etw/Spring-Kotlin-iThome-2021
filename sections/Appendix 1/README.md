@@ -1,8 +1,10 @@
 # Appendix 1 Why Kotlin
 * JVM Family
   * highly compatible with Spring Framework
+  * https://docs.spring.io/spring-framework/docs/current/reference/html/languages.html#kotlin
 * Syntax
-  * simple & clean
+  * simple
+  * modern
 * Data Class
   * Lombok
   * Java 14 record keyword
@@ -17,4 +19,4 @@
   * Give Me a Star 😄 https://github.com/b2etw/Spring-Kotlin-iThome-2021
 
 # References
-* h
+* https://julianchu.net/2018/05/05-kotlin.html
