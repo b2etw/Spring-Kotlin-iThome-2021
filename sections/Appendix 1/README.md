@@ -12,6 +12,7 @@
 * Scope Function
   * let it run this, it also apply this
 * Extension Function
+  * "abc".md5
   * order.toJson
 * Ending
   * https://tw.kotlin.tips/
@@ -20,3 +21,4 @@
 
 # References
 * https://julianchu.net/2018/05/05-kotlin.html
+* https://github.com/FunkyMuse/KAHelpers/blob/master/kotlinextensions/src/main/java/com/crazylegend/kotlinextensions/string/StringExtensions.kt
