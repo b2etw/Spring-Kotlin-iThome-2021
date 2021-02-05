@@ -3,8 +3,11 @@
   * highly compatible with Spring Framework
   * https://docs.spring.io/spring-framework/docs/current/reference/html/languages.html#kotlin
 * Syntax
-  * simple
-  * modern
+  * simple (fun)
+  * expression vs statement
+  * name argument
+  * Null Safety
+  * modern (OO + FP)
 * Data Class
   * Lombok
   * Java 14 record keyword
