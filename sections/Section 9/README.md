@@ -1,6 +1,6 @@
-# Section-8 MongoDB
-* https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins.html#build-tool-plugins
-* https://docs.spring.io/spring-boot/docs/current/reference/html/deployment.html#deployment
+# Section-9 NoSQL
+* https://docs.spring.io/spring-data/mongodb/docs/current/reference/html/#preface
+* mm
 * Ending
   * https://tw.kotlin.tips/
   * https://jianminhuang.cc
