@@ -6,7 +6,7 @@
     * ...
   * Jump Fast and Generate Fast
     * HotKeys
-      * ^N
+      * Cmd + N
       * F2
       * Alt + Enter
       * Cmd + E
