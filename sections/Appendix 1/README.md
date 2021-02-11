@@ -23,5 +23,6 @@
   * Give Me a Star 😄 https://github.com/b2etw/Spring-Kotlin-iThome-2021
 
 # References
+* https://kotlinlang.org/docs/null-safety.html
 * https://julianchu.net/2018/05/05-kotlin.html
 * https://github.com/FunkyMuse/KAHelpers/blob/master/kotlinextensions/src/main/java/com/crazylegend/kotlinextensions/string/StringExtensions.kt
