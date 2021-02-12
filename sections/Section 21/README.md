@@ -1,30 +1,8 @@
-# Section-21 Test Driven Development
-* TDD
-  * Misconception
-    * No Time
-    * Just Write Code First
-    * ...
-  * Jump Fast and Generate Fast
-    * HotKeys
-      * Cmd + N
-      * F2
-      * Alt + Enter
-      * Cmd + E
-    * Plugins
-      * AceJump
-      * Custom Postfix Template
-  * Write code backward
-  * Red, Green, Refactor
-  * Baby Step
-  * Protect your production code with test cases
-  * Refine your production code with refactor
-* Test 3A
-  * Arrange
-    * Class, Method, Variable and Mock
-  * Act
-    * Invoke the method and get result
-  * Assert
-    * validate the return value
-    
+ Section-21 Integration Test
+* Ending
+  * https://tw.kotlin.tips/
+  * https://jianminhuang.cc
+  * Give Me a Star 😄 https://github.com/b2etw/Spring-Kotlin-iThome-2021
+
 # References
-* https://www.dotblogs.com.tw/hatelove/2015/12/14/explanation-the-three-laws-of-tdd
+* h
