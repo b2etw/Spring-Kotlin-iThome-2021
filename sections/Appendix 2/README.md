@@ -9,4 +9,5 @@
 # References
 * https://www.baeldung.com/spring-async
 * https://www.baeldung.com/spring-scheduled-tasks
-* https://stackoverflow.com/questions/29796651/what-is-the-default-scheduler-pool-size-in-spring-boot
+* https://www.baeldung.com/spring-task-scheduler
+* https://www.baeldung.com/shedlock-spring
