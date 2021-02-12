@@ -1,4 +1,5 @@
-# Appendix 3 RestRepository
+# Appendix 3 Rest Repository
+* https://docs.spring.io/spring-data/rest/docs/current/reference/html/#reference
 * Ending
   * https://tw.kotlin.tips/
   * https://jianminhuang.cc
