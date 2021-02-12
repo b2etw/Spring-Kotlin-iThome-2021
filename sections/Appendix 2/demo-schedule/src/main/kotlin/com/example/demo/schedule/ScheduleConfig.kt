@@ -1,16 +1,16 @@
 package com.example.demo.schedule
 
+import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
-import org.springframework.scheduling.annotation.SchedulingConfigurer
 import org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler
-import org.springframework.scheduling.config.ScheduledTaskRegistrar
 
 @Configuration
-class ScheduleConfig : SchedulingConfigurer {
+class ScheduleConfig {
 
-    override fun configureTasks(taskRegistrar: ScheduledTaskRegistrar) {
+    @Bean
+    fun threadPoolTaskScheduler(): ThreadPoolTaskScheduler {
         val threadPoolTaskScheduler = ThreadPoolTaskScheduler()
-        threadPoolTaskScheduler.poolSize = 10
-        taskRegistrar.setTaskScheduler(threadPoolTaskScheduler)
+        threadPoolTaskScheduler.poolSize = 5
+        return threadPoolTaskScheduler
     }
 }
