@@ -1,6 +1,10 @@
 # Spring-Kotlin-iThome-2021
 > I think output the knowledge in our head is the best way for learning. This tutorial is not only for you guys but also for myself to review what I learn these years. If you have any question and feedback please contact me. 😎
 
+# Playlist
+* https://www.youtube.com/playlist?list=PLMmM6ninWhrIb-THEEm5aQl9oH0M36HbZ
+
+# Agenda
 * [Session 1 Introduction](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Session%201)
 * [Session 2 3 Tier + Basic CRUD](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Session%202)
 * [Session 3 IOC/DI](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%203)
@@ -27,6 +31,5 @@
 * [Appendix 2 Schedule](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Appendix%202)
 * [Appendix 3 Rest Repository](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Appendix%203)
 * [Appendix 4 Configuration](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Appendix%204)
-* https://www.youtube.com/playlist?list=PLMmM6ninWhrIb-THEEm5aQl9oH0M36HbZ
 
 ![](https://raw.githubusercontent.com/b2etw/Spring-Kotlin-iThome-2021/main/images/Spring%20Kotlin%20iThome%202021%2002121.png)
