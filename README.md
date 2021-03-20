@@ -5,8 +5,8 @@
 * https://www.youtube.com/playlist?list=PLMmM6ninWhrIb-THEEm5aQl9oH0M36HbZ
 
 # Agenda
-* [Session 1 Introduction](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Session%201)
-* [Session 2 3 Tier + Basic CRUD](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Session%202)
+* [Session 1 Introduction](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%201)
+* [Session 2 3 Tier + Basic CRUD](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%202)
 * [Session 3 IOC/DI](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%203)
 * [Session 4 MVC](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%204)
 * [Session 5 JPA](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%205)
