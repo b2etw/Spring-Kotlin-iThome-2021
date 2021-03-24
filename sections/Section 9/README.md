@@ -8,4 +8,5 @@
   * Give Me a Star 😄 https://github.com/b2etw/Spring-Kotlin-iThome-2021
 
 # References
+* https://medium.com/free-code-camp/nosql-databases-5f6639ed9574
 * https://docs.spring.io/spring-data/cassandra/docs/current/reference/html/
