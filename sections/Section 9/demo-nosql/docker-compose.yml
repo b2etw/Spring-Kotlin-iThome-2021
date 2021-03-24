@@ -1,0 +1,38 @@
+version: '3'
+
+services:
+  redis:
+    image: redis:6
+    expose:
+      - 6379
+    ports:
+      - "6379:6379"
+    networks:
+      - default
+
+  mongo:
+    image: mongo:4-bionic
+    environment:
+      - MONGODB_USER=root
+      - MONGODB_PASS=rootroot
+    expose:
+      - 27017
+    ports:
+      - "27017:27017"
+    networks:
+      - default
+
+  mongo-express:
+    image: mongo-express:latest
+    environment:
+      - ME_CONFIG_MONGODB_ADMINUSERNAME=root
+      - ME_CONFIG_MONGODB_ADMINPASSWORD=rootroot
+    ports:
+      - "8081:8081"
+    networks:
+      - default
+    depends_on:
+      - mongo
+
+networks:
+  default:
