@@ -1,8 +1,5 @@
 # Appendix 2 Schedule
 * https://docs.spring.io/spring-framework/docs/current/reference/html/integration.html#scheduling
-* Lock
-* 1 to Many
-* Message Queue Pub Sub
 * Ending
   * https://tw.kotlin.tips/
   * https://jianminhuang.cc
