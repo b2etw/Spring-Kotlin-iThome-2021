@@ -11,8 +11,11 @@ class DemoSchedule {
 
     private val logger = LoggerFactory.getLogger(this.javaClass)
 
-//    @Scheduled(cron = "*/5 * * * * *")
-//    fun printHello() = logger.info("Hello")
+    @Scheduled(cron = "*/5 * * * * *")
+    fun printHello() = logger.info("Hello")
+
+//    @Scheduled(cron = "*/3 * * * * *")
+//    fun printHello2() = logger.info("Hello2")
 
 //    @Scheduled(cron = "*/5 * * * * *")
 //    fun printHelloSleep() =
@@ -21,12 +24,12 @@ class DemoSchedule {
 //            TimeUnit.SECONDS.sleep(6)
 //        }
 
-    @Async
-    @Scheduled(cron = "*/5 * * * * *")
-    fun printSleepAndWakeup() =
-        run {
-            logger.info("sleep")
-            TimeUnit.SECONDS.sleep(6)
-            logger.info("wakeup")
-        }
+//    @Async
+//    @Scheduled(cron = "*/5 * * * * *")
+//    fun printSleepAndWakeup() =
+//        run {
+//            logger.info("sleep")
+//            TimeUnit.SECONDS.sleep(6)
+//            logger.info("wakeup")
+//        }
 }
