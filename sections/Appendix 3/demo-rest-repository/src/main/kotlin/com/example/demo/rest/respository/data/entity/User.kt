@@ -14,8 +14,8 @@ data class User(
     @GeneratedValue(strategy = GenerationType.AUTO)
     val id: Long,
 
-    val name: String,
+    var name: String,
 
-    val age: Int
+    var age: Int
 ) {
 }

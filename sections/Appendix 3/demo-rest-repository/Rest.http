@@ -1,0 +1,30 @@
+###
+GET localhost:8080/users
+
+###
+POST localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "Vince",
+  "age": 99
+}
+
+###
+PUT localhost:8080/users/1
+Content-Type: application/json
+
+{
+  "name": "Vincent"
+}
+
+###
+PATCH localhost:8080/users/1
+Content-Type: application/json
+
+{
+  "age": 77
+}
+
+###
+DELETE localhost:8080/users/2
