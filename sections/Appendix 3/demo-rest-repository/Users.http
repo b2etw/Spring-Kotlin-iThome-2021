@@ -28,3 +28,6 @@ Content-Type: application/json
 
 ###
 DELETE localhost:8080/users/2
+
+###
+GET localhost:8080/users/search/findByName?name=Vincent
