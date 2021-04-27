@@ -27,6 +27,7 @@
 * [Section 20 Metric](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%2020)
 * [Section 21 Integration Test](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%2021)
 * [Section 22 Test Driven Development](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%2022)
+* [Section 25 Review](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%2025)
 * [Appendix 1 Why Kotlin](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Appendix%201)
 * [Appendix 2 Schedule](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Appendix%202)
 * [Appendix 3 Rest Repository](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Appendix%203)
