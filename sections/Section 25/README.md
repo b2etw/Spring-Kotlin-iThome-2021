@@ -4,11 +4,11 @@
   * PLG
   * other business solutions (Datadog, Splunk, etc.)
 * Trace
-  * Open Trace
   * zipkin
   * jaeger
+  * skywalking
 * Metric
-  * ELK
+  * APM
   * Prometheus + Grafana
 
 # References
