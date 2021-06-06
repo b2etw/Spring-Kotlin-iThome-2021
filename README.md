@@ -25,6 +25,7 @@
 * [Section 18 Service Discovery](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%2018)
 * [Section 19 Traffic Management](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%2019)
 * [Section 20 Integration Test](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%2020)
+* ---
 * [Section 21 Performance Test](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%2021)
 * [Section 22 Test Driven Development](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%2022)
 * [Section 23 Kubernetes](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%2023)

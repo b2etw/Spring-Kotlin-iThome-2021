@@ -1,4 +1,4 @@
- Section-17 Message Queue
+ Section-18 Log
 * Ending
   * https://tw.kotlin.tips/
   * https://jianminhuang.cc

@@ -1,4 +1,4 @@
- Section-16 WebSocket
+ Section-17 Message Queue
 * Ending
   * https://tw.kotlin.tips/
   * https://jianminhuang.cc

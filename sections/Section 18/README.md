@@ -1,4 +1,4 @@
- Section-18 Log
+ Section-19 Trace
 * Ending
   * https://tw.kotlin.tips/
   * https://jianminhuang.cc
