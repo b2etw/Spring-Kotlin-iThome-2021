@@ -1,19 +1,21 @@
-# Appendix 4 Configuration
-* https://github.com/lightbend/config
-* Spring Boot Application Property
-  * https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.html#common-application-properties
-* Profile and Property Order
-  * https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-external-config
-* Remote
-  * Spring Cloud Config
-  * Spring Cloud Kubernetes
-  * Spring Consul
+# Appendix 4 Rest Repository
+* key points
+  * introduction
+  * steps
+  * project demo
+  * rest related knowledge
+* https://docs.spring.io/spring-data/rest/docs/current/reference/html/#reference
+* Domain Object, RepositoryRestResource, RestResource
+* Users.http
+* Richardson Maturity Model
+* https://drive.google.com/file/d/1u5rf_WoQf62LaKVdlbnaaRN_eCVGWc8D/view
 * Ending
   * https://tw.kotlin.tips/
   * https://jianminhuang.cc
   * Give Me a Star 😄 https://github.com/b2etw/Spring-Kotlin-iThome-2021
 
 # References
-* https://cloud.spring.io/spring-cloud-config/
-* https://spring.io/projects/spring-cloud-kubernetes
-* https://spring.io/projects/spring-cloud-consul
+* https://openhome.cc/Gossip/Spring/HATEOAS.html
+* https://www.baeldung.com/spring-rest-hal
+* https://martinfowler.com/articles/richardsonMaturityModel.html
+
