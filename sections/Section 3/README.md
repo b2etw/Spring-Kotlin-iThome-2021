@@ -1,4 +1,4 @@
-# Section-3 IOC/DI
+# Section 3 IOC/DI
 * Show a Old Spring Java Sample for DI
   * https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans
   * https://www.baeldung.com/spring-show-all-beans
