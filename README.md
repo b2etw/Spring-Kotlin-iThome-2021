@@ -36,4 +36,4 @@
 * [Appendix 4 Rest Repository](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Appendix%204)
 * [Appendix 5 Configuration](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Appendix%205)
 
-![](https://raw.githubusercontent.com/b2etw/Spring-Kotlin-iThome-2021/main/images/Spring%20Kotlin%20iThome%202021%2006091.png)
+![](https://raw.githubusercontent.com/b2etw/Spring-Kotlin-iThome-2021/main/images/Spring%20Kotlin%20iThome%202021%2006092.png)
