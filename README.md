@@ -1,11 +1,11 @@
-# Spring-Kotlin-iThome-2021
+# 🧑‍🏫 Spring-Kotlin-iThome-2021
 * I think output the knowledge in our head is one of best ways for learning 📔 
 * If you have any question or feedback please contact me 😎
 
-# Playlist
+# 🎬 Playlist
 * https://www.youtube.com/playlist?list=PLMmM6ninWhrI-EyoNbnOX51Zx11WN_hga
 
-# Agenda
+# 📃 Agenda
 * [Section 1 Introduction](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%201)
 * [Section 2 3 Tier + Basic CRUD](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%202)
 * [Section 3 IOC/DI](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%203)
