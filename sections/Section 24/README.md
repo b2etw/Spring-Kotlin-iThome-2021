@@ -1,4 +1,4 @@
-# Section-25 Log & Trace & Metric
+# Section 24 Log & Trace & Metric
 * key points
   * 3 main points of observability
   * business

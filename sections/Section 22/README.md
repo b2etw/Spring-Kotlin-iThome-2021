@@ -1,4 +1,4 @@
-# Section-22 Test Driven Development
+# Section 22 Test Driven Development
 * TDD
   * Misconception
     * No Time

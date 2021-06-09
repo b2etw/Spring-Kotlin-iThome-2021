@@ -1,4 +1,4 @@
-# Section-24 Kubernetes
+# Section 23 Kubernetes
 * key points
   * history
 	* introduction
