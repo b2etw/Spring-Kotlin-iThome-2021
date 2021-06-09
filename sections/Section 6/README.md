@@ -1,4 +1,4 @@
-# Section-6 Unit Test
+# Section 6 Unit Test
 * https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-testing
 * Test 3A
   * Arrange
