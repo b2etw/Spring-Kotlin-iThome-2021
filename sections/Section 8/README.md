@@ -1,4 +1,4 @@
-# Section-8 REST Clients & OpenAPI
+# Section 8 REST Clients & OpenAPI
 * https://springdoc.org/
 * https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#webmvc-client
 * https://docs.spring.io/spring-framework/docs/current/reference/html/integration.html#rest-client-access
