@@ -1,4 +1,4 @@
-# Section 19 API Gateway & Service Discovery
+# Section 18 API Gateway & Service Discovery
 * Ending
   * https://tw.kotlin.tips/
   * https://jianminhuang.cc
