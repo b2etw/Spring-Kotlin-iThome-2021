@@ -1,4 +1,4 @@
-# Section-7 CI & Docker
+# Section 7 CI & Docker
 * https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins.html#build-tool-plugins
 * https://docs.spring.io/spring-boot/docs/current/reference/html/deployment.html#deployment
 * Run Java (java -cp ... or java -jar ...)
