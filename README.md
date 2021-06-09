@@ -1,6 +1,6 @@
 # Spring-Kotlin-iThome-2021
-* I think output the knowledge in our head is the best way for learning. 
-* This tutorial is not only for you guys but also for myself to review what I learn these years. If you have any question and feedback please contact me. 😎
+* I think output the knowledge in our head is one of best ways for learning 📔 
+* If you have any question and feedback please contact me 😎
 
 # Playlist
 * https://www.youtube.com/playlist?list=PLMmM6ninWhrI-EyoNbnOX51Zx11WN_hga
