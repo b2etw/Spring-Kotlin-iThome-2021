@@ -8,7 +8,7 @@
 * [Section 1 Introduction](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%201)
 * [Section 2 3 Tier + Basic CRUD](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%202)
 * [Section 3 IOC/DI](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%203)
-* [Section 4 WebMVC](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%204)
+* [Section 4 Web MVC](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%204)
 * [Section 5 JPA](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%205)
 * [Section 6 Unit Test](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%206)
 * [Section 7 CI & Docker](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%207)
