@@ -1,4 +1,4 @@
-# Section-4 MVC
+# Section 4 WebMVC
 * https://docs.spring.io/spring-framework/docs/current/reference/html/web.html
 * Base on Section 2
   * @RestController, @GetMapping, @PostMapping, @PutMapping, @DeleteMapping (@Controller, @RequestMapping, @ResponseBody)
