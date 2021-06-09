@@ -2,7 +2,7 @@
 > I think output the knowledge in our head is the best way for learning. This tutorial is not only for you guys but also for myself to review what I learn these years. If you have any question and feedback please contact me. 😎
 
 # Playlist
-* https://www.youtube.com/playlist?list=PLMmM6ninWhrIb-THEEm5aQl9oH0M36HbZ
+* https://www.youtube.com/playlist?list=PLMmM6ninWhrI-EyoNbnOX51Zx11WN_hga
 
 # Agenda
 * [Section 1 Introduction](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/Section%201)
