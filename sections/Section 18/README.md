@@ -1,4 +1,4 @@
-# Section 18 API Gateway & Service Discovery
+# Section 18 Spring Cloud
 * Ending
   * https://tw.kotlin.tips/
   * https://jianminhuang.cc
