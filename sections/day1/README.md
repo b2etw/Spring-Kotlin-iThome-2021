@@ -1,4 +1,5 @@
 # Day 1 Introduction
+* About me
 * https://spring.io/
 * https://kotlinlang.org/
   * https://yfr-huang.medium.com/why-i-like-kotlin-3144f215ffc2
@@ -22,3 +23,5 @@
 * https://jianminhuang.cc
 * Don't forget give me a star 😄 https://github.com/b2etw/Spring-Kotlin-iThome-2021
 
+# YouTube
+* ss
