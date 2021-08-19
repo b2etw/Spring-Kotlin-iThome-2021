@@ -9,16 +9,18 @@
   * Study Group
   * Dojo
   * Video
+* Google Developer Expert
+  * https://developers.google.com/community/experts
 * https://www.jetbrains.com/idea/
   * Ultimate
   * Community
 * First Hello Project
+* Roadmap
+  * view the mindmap https://github.com/b2etw/Spring-Kotlin-iThome-2021
 * Direction
   * backend
   * devops
   * architecture
-* Roadmap
-  * view the mindmap https://github.com/b2etw/Spring-Kotlin-iThome-2021
 
 # Ending
 * https://jianminhuang.cc
