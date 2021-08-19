@@ -1,5 +1,5 @@
 # Day 1 Introduction
-* About me
+* About Me
 * https://spring.io/
 * https://kotlinlang.org/
   * https://yfr-huang.medium.com/why-i-like-kotlin-3144f215ffc2
