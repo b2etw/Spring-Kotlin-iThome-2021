@@ -1,9 +1,8 @@
-# Day 1 3-Tier & Simple CRUD
-* 3-Tier
-  * MVC ?
-  * ...
-* Simple CRUD
-  * aa
+# Day 4 MVC
+* 3
+
+# Retro
+* Q&A -> https://github.com/b2etw/Spring-Kotlin-iThome-2021/discussions
 
 # Ending
 * https://jianminhuang.cc 🌈
