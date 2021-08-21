@@ -23,8 +23,8 @@
   * architecture
 
 # Ending
-* https://jianminhuang.cc
-* Don't forget give me a star 😄 https://github.com/b2etw/Spring-Kotlin-iThome-2021
+* https://jianminhuang.cc 🌈
+* Don't forget give me a star 😄
 
 # YouTube
 * ss
