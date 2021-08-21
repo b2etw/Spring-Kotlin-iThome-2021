@@ -1,4 +1,4 @@
-# Day 1  Introduction
+# Day 1 Introduction
 * About Me
   * https://docs.google.com/document/d/1w3OKshhacU1vv2I6tAx-GSqNue8Nj_jm-_zHPkTzgrw
 * https://spring.io/
