@@ -1,10 +1,10 @@
 # Day 2 3-Tier & Simple CRUD
 * 3-Tier
-  * MVC ?
-  * Backend 3-Tier
-    * Controller
-    * Service
-    * Repository
+  * Client / Server / Database
+    * Presentation / Application / Database
+  * Model / View / Controller (MVC)
+  * Spring 3-Tier (Anemic Domain Model)
+    * Controller / Service / Repository
 * Basic CRUD
   * ddl
 * Docker MySQL https://hub.docker.com/_/mysql
