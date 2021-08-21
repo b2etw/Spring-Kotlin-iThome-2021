@@ -1,4 +1,4 @@
-# Day 1 3-Tier & Simple CRUD
+# Day 2 3-Tier & Simple CRUD
 * 3-Tier
   * MVC ?
   * Backend 3-Tier
