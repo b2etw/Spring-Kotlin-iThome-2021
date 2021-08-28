@@ -1,10 +1,18 @@
-# Day 3 IOC / DI
-* Show a Old Spring Java Sample for DI
-  * https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans
-  * https://www.baeldung.com/spring-show-all-beans
-  * https://www.baeldung.com/java-reflection
-* Explian IOC
-  * Request -> Controller -> Service -> Repository -> Database
+# Day 6 Unit Test
+* https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-testing
+* Test 3A
+  * Arrange
+    * Class, Method, Variable and Mock
+  * Act
+    * Invoke the method and get result
+  * Assert
+    * validate the return value
+* Service
+  * MockBean
+  * Autowired with H2
+* Controller
+  * MockMvc
+  * TestRestTemplate
 
 # Retro
 * Q&A -> https://github.com/b2etw/Spring-Kotlin-iThome-2021/discussions
@@ -17,9 +25,5 @@
 * ss
 
 # References
-* https://openhome.cc/Gossip/Spring/IoC.html
-* https://openhome.cc/Gossip/SpringGossip/DI.html
-* https://www.baeldung.com/spring-xml-injection
-* https://www.baeldung.com/spring-annotations-resource-inject-autowire
-* https://reflectoring.io/constructor-injection/
-* http://olivergierke.de/2013/11/why-field-injection-is-evil/
+* https://spring.io/guides/gs/testing-web/
+* https://kucw.github.io/blog/2020/2/spring-unit-test-mockito/

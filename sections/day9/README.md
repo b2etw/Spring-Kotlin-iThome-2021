@@ -1,10 +1,13 @@
-# Day 3 IOC / DI
-* Show a Old Spring Java Sample for DI
-  * https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans
-  * https://www.baeldung.com/spring-show-all-beans
-  * https://www.baeldung.com/java-reflection
-* Explian IOC
-  * Request -> Controller -> Service -> Repository -> Database
+# Day 9 NoSQL
+* https://db-engines.com/en/ranking
+* Document, Key Value, Wide Column
+* https://docs.spring.io/spring-data/mongodb/docs/current/reference/html/#get-started:first-steps:spring
+* MongoDB command
+  * docker-compose up -d mongo-express
+  * docker-compose exec mongo mongo
+  * use admin;
+  * db.createUser({user:'root',pwd:'rootroot',roles:[{role:'readWrite',db:'test'}]});
+  * http://localhost:8081/
 
 # Retro
 * Q&A -> https://github.com/b2etw/Spring-Kotlin-iThome-2021/discussions
@@ -17,9 +20,7 @@
 * ss
 
 # References
-* https://openhome.cc/Gossip/Spring/IoC.html
-* https://openhome.cc/Gossip/SpringGossip/DI.html
-* https://www.baeldung.com/spring-xml-injection
-* https://www.baeldung.com/spring-annotations-resource-inject-autowire
-* https://reflectoring.io/constructor-injection/
-* http://olivergierke.de/2013/11/why-field-injection-is-evil/
+* https://medium.com/free-code-camp/nosql-databases-5f6639ed9574
+* https://docs.spring.io/spring-data/cassandra/docs/current/reference/html/
+* https://www.tutorialspoint.com/mongodb/mongodb_advantages.htm
+* https://www.runoob.com/mongodb/mongodb-tutorial.html
