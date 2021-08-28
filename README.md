@@ -24,7 +24,7 @@
 * [Day 14 Transactional](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day14/README.md)
 * [Day 15 AOP](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day15/README.md)
 * [Day 16 Why Kotlin](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day16/README.md)
-* [Day 17 Reactive Web](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day17/README.md)
+* [Day 17 Reactive](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day17/README.md)
 * [Day 18 Coroutine](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day18/README.md)
 * [Day 19 Reactive Repository](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day19/README.md)
 * [Day 20 Security](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day20/README.md)
@@ -43,4 +43,4 @@
 * https://github.com/b2etw/Spring-Kotlin-iThome-2021/discussions
 
 # 🛣 Roadmap
-![](https://raw.githubusercontent.com/b2etw/Spring-Kotlin-iThome-2021/main/images/Spring%20Kotlin%20iThome%202021%2008282.png)
+![](https://raw.githubusercontent.com/b2etw/Spring-Kotlin-iThome-2021/main/images/Spring%20Kotlin%20iThome%202021%2008283.png)
