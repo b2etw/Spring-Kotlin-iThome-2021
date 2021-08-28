@@ -18,6 +18,12 @@
 * [Day 8 REST Clients & OpenAPI](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day8/README.md)
 * [Day 9 NoSQL](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day9/README.md)
 * [Day 10 Cache](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day10/README.md)
+* [Day 11 AOP](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day11/README.md)
+* [Day 12 Why Kotlin](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day12/README.md)
+* [Day 13 Transactional](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day13/README.md)
+* [Day 14 Schedule](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day14/README.md)
+* [Day 15 Rest Repository](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day15/README.md)
+* [Day 30 Review](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day30/README.md)
 
 # 🙋 Discussions
 * https://github.com/b2etw/Spring-Kotlin-iThome-2021/discussions
