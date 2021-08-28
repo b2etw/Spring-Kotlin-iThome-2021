@@ -1,4 +1,4 @@
-# Day 9 NoSQL
+# Day 11 NoSQL
 * https://db-engines.com/en/ranking
 * Document, Key Value, Wide Column
 * https://docs.spring.io/spring-data/mongodb/docs/current/reference/html/#get-started:first-steps:spring
