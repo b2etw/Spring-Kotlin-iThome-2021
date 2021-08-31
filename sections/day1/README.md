@@ -11,6 +11,8 @@
   * Video
 * Google Developer Expert
   * https://developers.google.com/community/experts
+  * https://ericsk.medium.com/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E6%87%89%E8%A9%B2%E7%94%B3%E8%AB%8B%E6%88%90%E7%82%BA-google-developers-experts-gde-58cf7c361f62
+  * https://www.evanlin.com/gde-go/
 * https://www.jetbrains.com/idea/
   * Ultimate
   * Community
