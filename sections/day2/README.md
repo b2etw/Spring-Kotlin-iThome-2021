@@ -5,7 +5,7 @@
   * Model / View / Controller (MVC)
   * Spring 3-Tier (Anemic Domain Model)
     * Controller / Service / Repository
-* Basic CRUD
+* Simple CRUD
   * DML
     * INSERT, SELECT, UPDATE, DELETE
 * Docker MySQL https://hub.docker.com/_/mysql

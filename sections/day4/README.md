@@ -4,7 +4,7 @@
   * @RestController, @GetMapping, @PostMapping, @PutMapping, @DeleteMapping (@Controller, @RequestMapping, @ResponseBody)
   * https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-ann-arguments
   * https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-ann-return-types
-  * jsp, jstl, ModelAndView, Themeleaf
+  * jsp, jstl, ModelAndView, Thymeleaf
   * filter, listener, interceptor
 
 # Retro
