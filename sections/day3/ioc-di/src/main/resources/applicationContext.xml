@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://www.springframework.org/schema/beans" xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-4.3.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
+
+    <!-- Scan for spring annotated components -->
+    <context:component-scan base-package="cc.jianminhuang.day3"/>
+    <!-- Process annotations on registered beans like @Autowired... -->
+    <context:annotation-config/>
+
+    <!--    <bean name="daoA" class="cc.jianminhuang.day3.DaoA"/>-->
+    <!--    <bean name="daoB" class="cc.jianminhuang.day3.DaoB"/>-->
+
+    <!--    <bean name="serviceA" class="cc.jianminhuang.day3.ServiceA">-->
+    <!--        &lt;!&ndash;        <property name="dao" ref="daoA" />&ndash;&gt;-->
+    <!--        <constructor-arg name="dao" ref="daoA"/>-->
+    <!--    </bean>-->
+    <!--    <bean name="serviceB" class="cc.jianminhuang.day3.ServiceB">-->
+    <!--        &lt;!&ndash;        <property name="dao" ref="daoA" />&ndash;&gt;-->
+    <!--        <constructor-arg name="dao" ref="daoB"/>-->
+    <!--    </bean>-->
+
+    <!--    <bean name="controllerA" class="cc.jianminhuang.day3.ControllerA">-->
+    <!--        &lt;!&ndash;        <property name="bo" ref="serviceA"/>&ndash;&gt;-->
+    <!--        <constructor-arg name="bo" ref="serviceA"/>-->
+    <!--    </bean>-->
+</beans>
