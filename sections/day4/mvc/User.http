@@ -1,0 +1,34 @@
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "Vincent, Huang",
+  "age": 20
+}
+
+###
+GET http://localhost:8080/users/2
+
+###
+PUT http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "id": 2,
+  "name": "Vincent, Wu",
+  "age": 99
+}
+
+###
+PATCH http://localhost:8080/users/age
+Content-Type: application/json
+
+{
+  "id": 2,
+  "name": "Vincent, Liu",
+  "age": 18
+}
+
+###
+DELETE http://localhost:8080/users/1

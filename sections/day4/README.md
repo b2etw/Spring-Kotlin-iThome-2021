@@ -6,6 +6,9 @@
   * https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-ann-return-types
   * jsp, jstl, ModelAndView, Thymeleaf
   * filter, listener, interceptor
+* https://tw.twincl.com/programming/*641y
+* https://ihower.tw/blog/archives/6483
+* https://stackoverflow.com/questions/41390997/why-patch-is-neither-safe-nor-idempotent
 
 # Retro
 * Q&A -> https://github.com/b2etw/Spring-Kotlin-iThome-2021/discussions
