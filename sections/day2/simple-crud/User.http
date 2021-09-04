@@ -1,0 +1,24 @@
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "Vincent, Huang",
+  "age": 20
+}
+
+###
+GET http://localhost:8080/users/1
+
+###
+PUT http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "Vincent, Huang",
+  "age": 17
+}
+
+###
+DELETE http://localhost:8080/users/1

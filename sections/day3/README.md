@@ -1,9 +1,7 @@
 # Day 3 IOC / DI
-* Show a Old Spring Java Sample for DI
+* Spring Beans
   * https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans
-  * https://www.baeldung.com/spring-show-all-beans
-  * https://www.baeldung.com/java-reflection
-* Explian IOC
+* Explain IOC
   * Request -> Controller -> Service -> Repository -> Database
 
 # Retro
