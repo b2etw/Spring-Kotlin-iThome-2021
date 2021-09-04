@@ -7,7 +7,6 @@
   * Id (seq, uuid), Column (bool, number, string, enum, datetime)
 * Repository -> findByXXX, save, delete
 * Sort, Paging
-* DynamicInsert, DynamicUpdate
 * Query JOIN, Update, Delete (@Query, @Modifying)
 
 # Retro
