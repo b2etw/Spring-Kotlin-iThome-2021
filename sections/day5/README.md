@@ -3,10 +3,10 @@
 * docker
   * https://hub.docker.com/_/mysql
   * docker run --name mysql -d -p 3306:3306 -e MYSQL_ROOT_PASSWORD=rootroot mysql:8
-* @DynamicUpdate JpaAuditing, CurrentDateTimeProvider
-* Entity (DML)aa
+* Entity (DML)
   * Id (seq, uuid), Column (bool, number, string, enum, datetime)
 * Repository -> findByXXX, save, delete
+* Sort, Paging
 * Query JOIN, Update, Delete (@Query, @Modifying)
 
 # Retro
