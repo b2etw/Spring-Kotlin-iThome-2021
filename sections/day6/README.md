@@ -8,11 +8,9 @@
   * Assert
     * validate the return value
 * Service
-  * MockBean
-  * Autowired with H2
+  * Mock MockBean
 * Controller
   * MockMvc
-  * TestRestTemplate
 
 # Retro
 * Q&A -> https://github.com/b2etw/Spring-Kotlin-iThome-2021/discussions
