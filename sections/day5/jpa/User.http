@@ -1,0 +1,26 @@
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "firstName": "Vincent",
+  "lastName": "Huang",
+  "age": 100,
+  "gender": "GIRL",
+  "balance": 1000.0
+}
+
+###
+GET http://localhost:8080/users/18
+
+###
+GET http://localhost:8080/users?lastName=Huang&page=0&size=10&column=age&direction=DESC
+
+###
+PATCH http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "id": 1,
+  "age": 18
+}
