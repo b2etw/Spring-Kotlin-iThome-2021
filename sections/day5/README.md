@@ -4,7 +4,7 @@
   * https://hub.docker.com/_/mysql
   * docker run --name mysql -d -p 3306:3306 -e MYSQL_ROOT_PASSWORD=rootroot mysql:8
 * Entity (DML)
-  * Id (seq, uuid), Column (bool, number, string, enum, datetime)
+  * Id (seq, uuid), Column (Number, String, Enum, Datetime)
 * Repository -> findByXXX, save, delete
 * Sort, Paging
 * Query JOIN, Update, Delete (@Query, @Modifying)
@@ -20,6 +20,4 @@
 * ss
 
 # References
-* https://medium.com/@BalicantaYao/jpa-%E4%B8%AD-generatedvalue-%E7%9A%84%E4%B8%89%E7%A8%AE%E7%AD%96%E7%95%A5-bedebf1c076d
-* https://www.baeldung.com/spring-data-jpa-modifying-annotation
 * https://www.baeldung.com/jpa-java-time
