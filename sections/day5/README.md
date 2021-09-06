@@ -3,7 +3,7 @@
 * docker
   * https://hub.docker.com/_/mysql
   * docker run --name mysql -d -p 3306:3306 -e MYSQL_ROOT_PASSWORD=rootroot mysql:8
-* Entity (DML)
+* Entity (DDL)
   * Id (seq, uuid), Column (Number, String, Enum, Datetime)
 * Repository -> findByXXX, save, delete
 * Sort, Paging
