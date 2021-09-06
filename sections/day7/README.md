@@ -9,12 +9,8 @@
   * Dockerfile
   * plugin
   * jib
-    * https://github.com/Jian-Min-Huang/tech-note/issues/32
-  * https://github.com/b2etw/Spring-Boot-Kotlin-Dojo/tree/master/stage4
+    * 
 * IAAS, CAAS, PAAS, FAAS
-  * smoothly upgrade
-  * trace upgrade & failback
-  * configuration management
 
 # Retro
 * Q&A -> https://github.com/b2etw/Spring-Kotlin-iThome-2021/discussions
