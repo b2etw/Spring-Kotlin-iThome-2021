@@ -1,12 +1,8 @@
-package cc.jianminhuang.day5.data.`do`
+package cc.jianminhuang.day6.data.`do`
 
-import cc.jianminhuang.day5.data.enu.Gender
-import java.math.BigDecimal
-import java.time.LocalDateTime
+import cc.jianminhuang.day6.data.dto.UserDto
 import javax.persistence.Column
 import javax.persistence.Entity
-import javax.persistence.EnumType
-import javax.persistence.Enumerated
 import javax.persistence.GeneratedValue
 import javax.persistence.GenerationType
 import javax.persistence.Id
@@ -28,14 +24,10 @@ data class User(
 
     @Column
     var age: Int,
-
-    @Column(length = 5)
-    @Enumerated(EnumType.STRING)
-    var gender: Gender,
-
-    @Column(precision = 20, scale = 4)
-    var balance: BigDecimal,
-
-    @Column
-    val createTime: Long,
-)
+) {
+    fun toDto() = UserDto(
+        id = id,
+        name = "$firstName, $lastName",
+        age = age
+    )
+}

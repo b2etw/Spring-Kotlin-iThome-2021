@@ -25,7 +25,7 @@ class UserController(
     fun addUser(@RequestBody user: User) = userDao.save(user)
 
     @GetMapping("/{age}")
-    fun queryUserByAge(@PathVariable age: Int) = userDao.findByAge(age)
+    fun queryUserByAge(@PathVariable age: Int) = userDao.findByAgeOrderByIdDesc(age)
 
     @GetMapping
     fun queryUserByLastName(
@@ -33,13 +33,10 @@ class UserController(
         @RequestParam page: Int,
         @RequestParam size: Int,
         @RequestParam column: String,
-        @RequestParam direction: Sort.Direction,
-    ) = userDao.findByLastName(
-        lastName,
-        PageRequest.of(page, size, direction, column)
-    )
+        @RequestParam direction: Sort.Direction
+    ) = userDao.findByLastName(lastName, PageRequest.of(page, size, direction, column))
 
     @PatchMapping
     @Transactional
-    fun modifyUserAgeById(@RequestBody userVo: UserVo) = userDao.updateAgeById(userVo.id, userVo.age)
+    fun modifyUserAgeById(@RequestBody userVo: UserVo) = userDao.updateAgeById(userVo.age, userVo.id)
 }
