@@ -2,6 +2,8 @@
 * https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#webmvc-client
 * https://springdoc.org/
 * https://springdoc.org/#migrating-from-springfox
+* https://springfox.github.io/springfox/
+* https://springfox.github.io/springfox/docs/current/#property-file-lookup
 
 # Retro
 * Q&A -> https://github.com/b2etw/Spring-Kotlin-iThome-2021/discussions
