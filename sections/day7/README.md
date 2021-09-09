@@ -27,3 +27,5 @@
 # References
 * https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
 * https://battle.devopstw.club/
+* https://saturnism.me/talk/
+* https://cloud.google.com/blog/topics/developers-practitioners/comparing-containerization-methods-buildpacks-jib-and-dockerfile
