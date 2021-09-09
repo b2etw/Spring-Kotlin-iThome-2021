@@ -5,6 +5,8 @@
   * Model / View / Controller (MVC)
   * Spring 3-Tier (Anemic Domain Model)
     * Controller / Service / Repository
+* ![]()
+* ![]()
 * Simple CRUD
   * DML
     * INSERT, SELECT, UPDATE, DELETE
