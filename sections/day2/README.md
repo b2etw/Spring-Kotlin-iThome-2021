@@ -5,8 +5,8 @@
   * Model / View / Controller (MVC)
   * Spring 3-Tier (Anemic Domain Model)
     * Controller / Service / Repository
-* ![]()
-* ![]()
+* ![](https://raw.githubusercontent.com/b2etw/Spring-Kotlin-iThome-2021/main/sections/day2/simple-case.png)
+* ![](https://raw.githubusercontent.com/b2etw/Spring-Kotlin-iThome-2021/main/sections/day2/common-case.png)
 * Simple CRUD
   * DML
     * INSERT, SELECT, UPDATE, DELETE
