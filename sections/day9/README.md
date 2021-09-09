@@ -16,6 +16,5 @@
 * ss
 
 # References
-* https://www.baeldung.com/spring-rest-hal
 * https://spring.io/guides/gs/accessing-data-rest/
 * https://martinfowler.com/articles/richardsonMaturityModel.html
