@@ -3,6 +3,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 plugins {
     id("org.springframework.boot") version "2.5.4"
     id("io.spring.dependency-management") version "1.0.11.RELEASE"
+    id("com.google.cloud.tools.jib") version "3.1.4"
     kotlin("jvm") version "1.5.21"
     kotlin("plugin.spring") version "1.5.21"
     kotlin("plugin.jpa") version "1.5.21"
@@ -35,4 +36,22 @@ tasks.withType<KotlinCompile> {
 
 tasks.withType<Test> {
     useJUnitPlatform()
+}
+
+jib {
+    from {
+        image = "openjdk:11-jre-slim"
+    }
+    to {
+        image = "registry.hub.docker.com/taiwanbackendgroup/${project.name}:$version"
+    }
+    container {
+        creationTime = "USE_CURRENT_TIMESTAMP"
+        mainClass = "cc.jianminhuang.day2.SimpleCrudApplicationKt"
+        jvmFlags = listOf(
+            "-Xms8g",
+            "-Xmx8g"
+        )
+    }
+    setAllowInsecureRegistries(true)
 }
