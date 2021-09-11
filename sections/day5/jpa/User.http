@@ -3,18 +3,17 @@ POST http://localhost:8080/users
 Content-Type: application/json
 
 {
-  "firstName": "Vincent",
-  "lastName": "Huang",
-  "age": 12,
+  "name": "Wade, Wu",
+  "age": 15,
   "gender": "BOY",
-  "balance": 1000.0
+  "balance": 10000.0
 }
 
 ###
-GET http://localhost:8080/users/100
+GET http://localhost:8080/users/firstName/Wade
 
 ###
-GET http://localhost:8080/users?lastName=Huang&page=1&size=6&column=id&direction=ASC
+GET http://localhost:8080/users?lastName=Huang&page=0&size=5&column=id&direction=ASC
 
 ###
 PATCH http://localhost:8080/users
@@ -22,5 +21,6 @@ Content-Type: application/json
 
 {
   "id": 1,
-  "age": 100
+  "age": 50
 }
+

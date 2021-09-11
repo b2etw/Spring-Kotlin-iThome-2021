@@ -1,5 +1,6 @@
 package cc.jianminhuang.day5.data.`do`
 
+import cc.jianminhuang.day5.data.dto.UserDto
 import cc.jianminhuang.day5.data.enu.Gender
 import java.math.BigDecimal
 import java.time.LocalDateTime
@@ -20,10 +21,10 @@ data class User(
     @GeneratedValue(strategy = GenerationType.AUTO)
     val id: Long?,
 
-    @Column
+    @Column(length = 50)
     var firstName: String,
 
-    @Column
+    @Column(length = 50)
     var lastName: String,
 
     @Column
@@ -37,5 +38,14 @@ data class User(
     var balance: BigDecimal,
 
     @Column
-    val createTime: Long,
-)
+    var createTime: LocalDateTime?,
+) {
+    fun toDto() = UserDto(
+        id = id,
+        name = "$firstName, $lastName",
+        age = age,
+        gender = gender,
+        balance = balance,
+        createTime = createTime,
+    )
+}

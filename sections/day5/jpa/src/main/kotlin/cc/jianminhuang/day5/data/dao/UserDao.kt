@@ -10,11 +10,11 @@ import org.springframework.data.jpa.repository.Query
 
 interface UserDao: JpaRepository<User, Long>, JpaSpecificationExecutor<User> {
 
-    fun findByAgeOrderByIdDesc(age: Int): List<User>
+    fun findByFirstNameOrderByIdDesc(firstName: String): List<User>
 
     fun findByLastName(lastName: String, pageable: Pageable): Page<User>
 
     @Modifying
     @Query("UPDATE User u SET u.age = :age WHERE u.id = :id")
-    fun updateAgeById(age: Int, id: Long)
+    fun updateUserAgeById(age: Int, id: Long)
 }
