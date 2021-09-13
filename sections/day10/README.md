@@ -13,6 +13,7 @@
 * ss
 
 # References
+* https://crontab.guru/
 * https://www.baeldung.com/spring-async
 * https://www.baeldung.com/spring-scheduled-tasks
 * https://www.baeldung.com/shedlock-spring
