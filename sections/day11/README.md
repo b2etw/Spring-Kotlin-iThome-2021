@@ -22,5 +22,5 @@
 
 # References
 * https://medium.com/free-code-camp/nosql-databases-5f6639ed9574
-* https://www.tutorialspoint.com/mongodb/mongodb_advantages.htm
+* https://www.tutorialspoint.com/mongodb/
 * https://www.runoob.com/mongodb/mongodb-tutorial.html
