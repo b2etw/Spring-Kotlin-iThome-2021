@@ -1,6 +1,7 @@
 # Day 11 NoSQL
 * https://db-engines.com/en/ranking
 * Document, Key Value, Wide Column
+* https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d
 * https://docs.spring.io/spring-data/mongodb/docs/current/reference/html/#get-started:first-steps:spring
 * MongoDB command
   * docker-compose up -d mongo-express
