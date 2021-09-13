@@ -13,7 +13,7 @@
 * Don't forget give me a star 😄
 
 # YouTube
-* ss
+* https://www.youtube.com/watch?v=Kw4Lt-GREro
 
 # References
 * https://www.baeldung.com/spring-rest-openapi-documentation
