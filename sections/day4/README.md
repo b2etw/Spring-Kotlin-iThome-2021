@@ -9,6 +9,7 @@
 * https://tw.twincl.com/programming/*641y
 * https://ihower.tw/blog/archives/6483
 * https://stackoverflow.com/questions/41390997/why-patch-is-neither-safe-nor-idempotent
+* https://drive.google.com/file/d/1u5rf_WoQf62LaKVdlbnaaRN_eCVGWc8D/view
 
 # Retro
 * Q&A -> https://github.com/b2etw/Spring-Kotlin-iThome-2021/discussions
