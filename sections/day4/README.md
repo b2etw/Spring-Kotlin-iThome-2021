@@ -2,6 +2,7 @@
 * https://docs.spring.io/spring-framework/docs/current/reference/html/web.html
 * Base on Section 2
   * @RestController, @GetMapping, @PostMapping, @PutMapping, @PatchMapping, @DeleteMapping (@Controller, @RequestMapping, @ResponseBody)
+  * @RestControllerAdvice
   * https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-ann-arguments
   * https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-ann-return-types
   * jsp, jstl, ModelAndView, Thymeleaf
