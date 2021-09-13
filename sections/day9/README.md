@@ -18,3 +18,4 @@
 # References
 * https://spring.io/guides/gs/accessing-data-rest/
 * https://martinfowler.com/articles/richardsonMaturityModel.html
+* https://ithelp.ithome.com.tw/users/20107338/ironman/1445
