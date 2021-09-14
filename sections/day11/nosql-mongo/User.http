@@ -1,0 +1,29 @@
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "firstName": "Wade",
+  "lastName": "Wu",
+  "age": 18
+}
+
+###
+GET http://localhost:8080/users/6140082c07e8912bed6636c1
+
+###
+GET http://localhost:8080/users?age=18
+
+###
+PUT http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "id": "6140082c07e8912bed6636c1",
+  "firstName": "Vince",
+  "lastName": "Hung",
+  "age": 15
+}
+
+###
+DELETE http://localhost:8080/users/6140082c07e8912bed6636c1
