@@ -17,3 +17,4 @@
 * https://spring.io/guides/gs/caching/
 * https://www.baeldung.com/spring-cache-tutorial
 * https://github.com/ben-manes/caffeine
+* https://github.com/redisson/redisson
