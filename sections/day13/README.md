@@ -8,7 +8,8 @@
   * RocketMQ
   * AWS SQS & SNS
   * GCP PUB/SUB
-  * AZURE QUEUE STORAGE & SERVICE BUS 
+  * AZURE QUEUE STORAGE & SERVICE BUS
+* Streaming Issue 
 
 # Retro
 * Q&A -> https://github.com/b2etw/Spring-Kotlin-iThome-2021/discussions
