@@ -3,6 +3,7 @@
 * Message Queue
   * http://localhost:15672/
 * Message Delivery Semantics and Guarantees
+* https://www.rabbitmq.com/getstarted.html
 * Other Solutions
   * Kafka
   * RocketMQ
