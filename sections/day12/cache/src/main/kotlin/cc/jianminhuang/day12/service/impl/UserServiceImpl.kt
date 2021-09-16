@@ -12,7 +12,6 @@ import org.springframework.stereotype.Service
 
 @Service
 class UserServiceImpl(
-    val stringRedisTemplate: StringRedisTemplate,
     val userDao: UserDao
 ): UserService {
 
@@ -23,7 +22,6 @@ class UserServiceImpl(
     override fun queryUserById(id: Long) =
         userDao.findById(id)
             .map {
-                stringRedisTemplate.op
                 it.toDto()
             }
             .orElseThrow { RuntimeException() }
