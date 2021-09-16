@@ -2,7 +2,7 @@
 * http://tw.gitbook.net/jdbc/jdbc-transactions.html
 * https://docs.spring.io/spring-framework/docs/current/reference/html/data-access.html#transaction
 * https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/transaction/annotation/Transactional.html
-* My TX is NOT WORKING ?
+* MY TX is NOT WORKING ?
   * public method
   * in method invoke
   * try catch
