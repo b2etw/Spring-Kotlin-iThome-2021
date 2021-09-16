@@ -2,6 +2,7 @@
 * AOP (Aspect-Oriented Programming)
   * @Aspect
   * @Before, @Around, @After, @AfterReturning, @AfterThrowing
+  * [Case](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day2/common-case.png) 
   * Demo
     * Log
     * Time
