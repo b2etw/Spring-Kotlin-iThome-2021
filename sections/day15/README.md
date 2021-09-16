@@ -7,7 +7,7 @@
     * Log
     * Time
   * Apply
-    * Authentication, Caching, Context passing, Error handling, Lazy loading, Logging, Tracing, Profiling, Monitoring, Transactions
+    * Authentication, Caching, Context passing, Error handling, Lazy loading, Dubugging, Logging, Tracing, Profiling, Monitoring, Transactions
 
 # Retro
 * Q&A -> https://github.com/b2etw/Spring-Kotlin-iThome-2021/discussions
