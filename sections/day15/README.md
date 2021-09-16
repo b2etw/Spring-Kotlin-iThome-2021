@@ -23,4 +23,4 @@
 * https://openhome.cc/Gossip/SpringGossip/AOPConcept.html
 * https://openhome.cc/Gossip/Spring/Pointcut.html
 * https://juejin.im/post/6844903969433583624
-* https://medium.com/chikuwa-tech-study/sprint-boot-%E7%AC%AC20%E8%AA%B2-%E5%88%87%E9%9D%A2%E5%B0%8E%E5%90%91%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88-aop-33a93c576fa4 
+* https://chikuwa-tech-study.blogspot.com/2021/06/spring-boot-aop-introduction.html
