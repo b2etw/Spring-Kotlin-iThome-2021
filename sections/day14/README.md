@@ -9,7 +9,7 @@
   * rollback for
   * db engine
   * include no db case
-  * [Case](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day2/common-case.png)
+    * [Case](https://github.com/b2etw/Spring-Kotlin-iThome-2021/blob/main/sections/day2/common-case.png)
 
 # Retro
 * Q&A -> https://github.com/b2etw/Spring-Kotlin-iThome-2021/discussions
