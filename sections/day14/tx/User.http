@@ -1,0 +1,8 @@
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "lastName": "Huang",
+  "age": 18
+}
