@@ -14,4 +14,5 @@
 * ss
 
 # References
-*
+* https://www.baeldung.com/spring-data-mongodb-reactive
+* https://www.baeldung.com/spring-data-redis-reactive
