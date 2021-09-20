@@ -1,5 +1,6 @@
 # Day 19 Reactive Repository
 * https://docs.spring.io/spring-framework/docs/current/reference/html/data-access.html#r2dbc
+* https://docs.spring.io/spring-data/r2dbc/docs/1.3.5/reference/html/#r2dbc.repositories
 * https://docs.spring.io/spring-data/mongodb/docs/current/reference/html/#mongo.reactive
 * https://docs.spring.io/spring-data/redis/docs/current/reference/html/#redis:reactive
 
