@@ -33,7 +33,18 @@ services:
       - "3306:3306"
     networks:
       - default
-
+      
+  postgresql:
+    image: postgres:13
+    environment:
+      - POSTGRES_PASSWORD=rootroot
+    expose:
+      - 5432
+    ports:
+      - "5432:5432"
+    networks:
+      - default
+    
   mongo:
     image: mongo:4-bionic
     environment:
