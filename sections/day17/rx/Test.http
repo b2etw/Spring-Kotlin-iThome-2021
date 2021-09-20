@@ -1,0 +1,12 @@
+###
+GET http://localhost:8080/base64/SFRUUEJJTiBpcyBhd2Vzb21l
+
+###
+POST http://localhost:8080/base64
+Content-Type: application/json
+
+[
+  "SFRUUEJJTiBpcyBhd2Vzb21l",
+  "SFRUUEJJTiBpcyBhd2Vzb21l",
+  "SFRUUEJJTiBpcyBhd2Vzb21l"
+]
