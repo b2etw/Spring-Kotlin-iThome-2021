@@ -1,0 +1,12 @@
+###
+POST http://localhost:8080/members
+Content-Type: application/json
+
+{
+  "firstName": "Vincent",
+  "lastName": "Huang",
+  "age": 18
+}
+
+###
+GET http://localhost:8080/members/1
