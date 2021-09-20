@@ -1,7 +1,6 @@
 # Day 18 Coroutine
 * https://docs.spring.io/spring-framework/docs/current/reference/html/languages.html#coroutines
 * https://spring.io/blog/2019/04/12/going-reactive-with-spring-coroutines-and-kotlin-flow
-* https://ithelp.ithome.com.tw/users/20129264/ironman/3966
 * Pattern
   * Thread, Runnable
     * Single
@@ -34,4 +33,4 @@
 * ss
 
 # References
-* 
+* https://ithelp.ithome.com.tw/users/20129264/ironman/3966
