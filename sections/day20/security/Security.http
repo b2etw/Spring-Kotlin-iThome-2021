@@ -1,0 +1,19 @@
+###
+POST http://localhost:8080/auth
+Content-Type: application/json
+
+{
+  "userName": "admin",
+  "password": "123456"
+}
+
+###
+POST http://localhost:8080/members
+Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJqaWFubWluaHVhbmcuY2MiLCJzdWIiOiJhZG1pbiIsImV4cCI6MTYzMjMzNDgyNywibmJmIjoxNjMyMzMzMDI3LCJpYXQiOjE2MzIzMzMwMjcsImp0aSI6Ijk4OTFhMGQ4LTRlZTUtNDUwZi05Y2E1LWI1NWY3MmZkNDc3NCJ9.aMgCUdTu_rHcgl65TLs7pUPIe29kqb4KZp4q0dvhGiAB2puildSphjrhJGVwxTM8EkJPleNqerQ91qQKeOE0_g
+Content-Type: application/json
+
+{
+  "uid": "Daniel",
+  "password": "aaaa0000",
+  "role": "ROLE_ADMIN"
+}

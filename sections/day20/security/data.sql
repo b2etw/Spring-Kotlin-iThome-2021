@@ -1,0 +1,1 @@
+INSERT INTO member(id, uid, password, role) VALUES (0, 'admin', '$2a$10$rTlvvumbusgZe00m836JKOC9X9RFrnILewqmw9MJ/OKJDkioj6nu2', 'ROLE_ADMIN');

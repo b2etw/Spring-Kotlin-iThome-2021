@@ -8,7 +8,7 @@ plugins {
 	kotlin("plugin.jpa") version "1.5.21"
 }
 
-group = "cc.jianminhuang.day19"
+group = "cc.jianminhuang.day20"
 version = "0.0.1-SNAPSHOT"
 java.sourceCompatibility = JavaVersion.VERSION_11
 
@@ -23,11 +23,12 @@ dependencies {
 	implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
-	runtimeOnly("com.h2database:h2")
+	runtimeOnly("mysql:mysql-connector-java")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 	testImplementation("org.springframework.security:spring-security-test")
 
 	implementation("io.jsonwebtoken:jjwt-impl:0.11.2")
+	implementation("io.jsonwebtoken:jjwt-jackson:0.11.2")
 }
 
 tasks.withType<KotlinCompile> {
