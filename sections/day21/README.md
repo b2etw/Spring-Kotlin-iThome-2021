@@ -18,3 +18,7 @@
 
 # YouTube
 * ss
+
+# References
+* https://en.wikipedia.org/wiki/Streaming_Text_Oriented_Messaging_Protocol
+* https://en.wikipedia.org/wiki/Server-sent_events
