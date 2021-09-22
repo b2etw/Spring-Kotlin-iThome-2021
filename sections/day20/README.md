@@ -1,4 +1,6 @@
 # Day 20 Security
+* https://docs.spring.io/spring-security/site/docs/current/reference/html5/
+* RBAC, OAUTH, ...
 * JpaAuditing, CurrentDateTimeProvider
 
 # Retro
