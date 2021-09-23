@@ -17,7 +17,7 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter
 
 @EnableWebSecurity
-@EnableJpaAuditing(auditorAwareRef = "auditorAwareRef")
+@EnableJpaAuditing(auditorAwareRef = "auditorAwareRef", dateTimeProviderRef = "dateTimeAwareRef")
 @EnableGlobalMethodSecurity(prePostEnabled = true)
 @Configuration
 class WebSecurityConfig(

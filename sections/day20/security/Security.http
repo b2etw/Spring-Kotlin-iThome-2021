@@ -3,17 +3,17 @@ POST http://localhost:8080/auth
 Content-Type: application/json
 
 {
-  "userName": "ddd66",
-  "password": "aaaa0000"
+  "userName": "admin",
+  "password": "123456"
 }
 
 ###
 POST http://localhost:8080/members
-Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJqaWFubWluaHVhbmcuY2MiLCJzdWIiOiJkZGQ2NiIsImV4cCI6MTYzMjM3NjgxNCwibmJmIjoxNjMyMzc1MDE0LCJpYXQiOjE2MzIzNzUwMTQsImp0aSI6IjUwZGU4ZDQyLTY1ZDEtNGNhMi1iZmI1LThlMjhmNzE4Y2E5MCJ9.a6zDN0SEBCOHqA7QZ-wa_Uv40ilnOAaEtrrUAPjrZcL3uOcubdlKgz72RfrZYzSCikyd6tE6FtErpQq0h1v5IA
+Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJqaWFubWluaHVhbmcuY2MiLCJzdWIiOiJhZG1pbiIsImV4cCI6MTYzMjM3NzU0NCwibmJmIjoxNjMyMzc1NzQ0LCJpYXQiOjE2MzIzNzU3NDQsImp0aSI6ImRkOTE5Nzg3LWJiYTctNDE3OS04YTJjLTZhYzY3N2ZjOGQ0ZiJ9.t7roVrO2baZGZJauB2nVC7g7VuvS6KT6Mixqs1bChEJk7q5E-7rRLATJC0njGSQ0z1ptShvmYRnhSJHqPI2J2g
 Content-Type: application/json
 
 {
-  "uid": "dddddd66",
-  "password": "aaaa0000",
-  "role": "OP"
+  "uid": "Vincent888",
+  "password": "abcd5",
+  "role": "ROLE_ADMIN"
 }
