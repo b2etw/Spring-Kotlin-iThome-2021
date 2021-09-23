@@ -22,4 +22,5 @@
 # References
 * https://en.wikipedia.org/wiki/Streaming_Text_Oriented_Messaging_Protocol
 * https://rsocket.io/
+* http://tutorials.jenkov.com/netty/netty-tcp-server.html
 * https://en.wikipedia.org/wiki/Server-sent_events
