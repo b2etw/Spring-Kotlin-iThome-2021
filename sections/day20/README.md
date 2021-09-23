@@ -1,7 +1,6 @@
 # Day 20 Security
 * https://docs.spring.io/spring-security/site/docs/current/reference/html5/
-* RBAC, OAUTH, ...
-* JpaAuditing, CurrentDateTimeProvider
+* RBAC, OAUTH
 
 # Retro
 * Q&A -> https://github.com/b2etw/Spring-Kotlin-iThome-2021/discussions
@@ -15,3 +14,4 @@
 
 # References
 * https://jwt.io/
+* https://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html
