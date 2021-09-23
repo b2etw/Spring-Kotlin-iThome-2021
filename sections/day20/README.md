@@ -1,5 +1,6 @@
 # Day 20 Security
 * https://docs.spring.io/spring-security/site/docs/current/reference/html5/
+* https://openhome.cc/Gossip/Spring/
 * RBAC, OAUTH, JWT
 
 # Retro
