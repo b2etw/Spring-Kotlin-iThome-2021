@@ -27,7 +27,6 @@ class JwtTokenService {
                 .compact()
         }
 
-
     fun retrieveSubject(token: String) =
         Jwts.parserBuilder()
             .setSigningKey(Keys.hmacShaKeyFor(SECRET.toByteArray()))
@@ -35,5 +34,4 @@ class JwtTokenService {
             .parseClaimsJws(token)
             .body
             .subject
-
 }
