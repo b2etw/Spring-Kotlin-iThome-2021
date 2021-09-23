@@ -1,4 +1,4 @@
-package cc.jianminhuang.day19.data.dto
+package cc.jianminhuang.day20.data.dto
 
 data class AuthReq(
 

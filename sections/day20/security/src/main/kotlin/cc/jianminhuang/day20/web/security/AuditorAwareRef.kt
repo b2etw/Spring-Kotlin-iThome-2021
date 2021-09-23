@@ -1,4 +1,4 @@
-package cc.jianminhuang.day19.web.security
+package cc.jianminhuang.day20.web.security
 
 import org.springframework.data.domain.AuditorAware
 import org.springframework.security.core.context.SecurityContextHolder

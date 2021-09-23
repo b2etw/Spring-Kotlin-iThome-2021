@@ -1,8 +1,8 @@
-package cc.jianminhuang.day19.web.controller
+package cc.jianminhuang.day20.web.controller
 
-import cc.jianminhuang.day19.data.dto.AuthReq
-import cc.jianminhuang.day19.web.security.JwtTokenService
-import cc.jianminhuang.day19.web.security.CustomUserDetailsService
+import cc.jianminhuang.day20.data.dto.AuthReq
+import cc.jianminhuang.day20.web.security.JwtTokenService
+import cc.jianminhuang.day20.web.security.CustomUserDetailsService
 import org.springframework.security.authentication.AuthenticationManager
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken
 import org.springframework.web.bind.annotation.PostMapping

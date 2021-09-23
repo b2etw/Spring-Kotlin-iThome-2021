@@ -1,4 +1,4 @@
-package cc.jianminhuang.day19.data.`do`
+package cc.jianminhuang.day20.data.`do`
 
 import org.springframework.data.annotation.CreatedBy
 import org.springframework.data.annotation.CreatedDate

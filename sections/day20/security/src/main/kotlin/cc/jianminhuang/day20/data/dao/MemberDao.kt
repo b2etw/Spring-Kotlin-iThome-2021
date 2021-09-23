@@ -1,6 +1,6 @@
-package cc.jianminhuang.day19.data.dao
+package cc.jianminhuang.day20.data.dao
 
-import cc.jianminhuang.day19.data.`do`.Member
+import cc.jianminhuang.day20.data.`do`.Member
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor
 import java.util.Optional

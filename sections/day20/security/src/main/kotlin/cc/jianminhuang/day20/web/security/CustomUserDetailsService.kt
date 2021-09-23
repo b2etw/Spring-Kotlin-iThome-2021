@@ -1,6 +1,6 @@
-package cc.jianminhuang.day19.web.security
+package cc.jianminhuang.day20.web.security
 
-import cc.jianminhuang.day19.data.dao.MemberDao
+import cc.jianminhuang.day20.data.dao.MemberDao
 import org.springframework.security.core.authority.SimpleGrantedAuthority
 import org.springframework.security.core.userdetails.User
 import org.springframework.security.core.userdetails.UserDetailsService

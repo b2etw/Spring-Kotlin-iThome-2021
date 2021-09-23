@@ -1,7 +1,7 @@
-package cc.jianminhuang.day19.web.controller
+package cc.jianminhuang.day20.web.controller
 
-import cc.jianminhuang.day19.data.`do`.Member
-import cc.jianminhuang.day19.data.dao.MemberDao
+import cc.jianminhuang.day20.data.`do`.Member
+import cc.jianminhuang.day20.data.dao.MemberDao
 import org.springframework.security.access.prepost.PreAuthorize
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder
 import org.springframework.web.bind.annotation.PostMapping

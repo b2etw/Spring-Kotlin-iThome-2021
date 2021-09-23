@@ -1,12 +1,14 @@
-package cc.jianminhuang.day19.config
+package cc.jianminhuang.day20.config
 
-import cc.jianminhuang.day19.web.security.JwtRequestFilter
-import cc.jianminhuang.day19.web.security.CustomUserDetailsService
+import cc.jianminhuang.day20.web.security.JwtRequestFilter
+import cc.jianminhuang.day20.web.security.CustomUserDetailsService
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 import org.springframework.data.jpa.repository.config.EnableJpaAuditing
+import org.springframework.http.HttpMethod
 import org.springframework.security.authentication.AuthenticationManager
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder
+import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity
 import org.springframework.security.config.annotation.web.builders.HttpSecurity
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter
@@ -16,6 +18,7 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 
 @EnableWebSecurity
 @EnableJpaAuditing(auditorAwareRef = "auditorAwareRef")
+@EnableGlobalMethodSecurity(prePostEnabled = true)
 @Configuration
 class WebSecurityConfig(
     val jwtRequestFilter: JwtRequestFilter,
