@@ -2,6 +2,7 @@
 * https://spring.io/projects/spring-cloud
 * https://netflixtechblog.com/
 * https://github.com/Netflix
+* https://www.hashicorp.com/
 * https://dubbo.apache.org/zh/
 * https://vertx.io/
 * https://quarkus.io/
