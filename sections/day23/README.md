@@ -22,3 +22,4 @@
 * https://www.softwaretestinghelp.com/types-of-software-testing/
 * https://www.testcontainers.org/
 * https://docs.spring.io/spring-boot/docs/2.1.x/reference/html/howto-database-initialization.html
+* https://www.baeldung.com/database-migrations-with-flyway
