@@ -1,5 +1,6 @@
 # Day 23 Integration Test
 * https://www.guru99.com/unit-test-vs-integration-test.html
+* https://docs.spring.io/spring-framework/docs/current/reference/html/testing.html#integration-testing
 * case
   * new feature finished
   * unit test passed
