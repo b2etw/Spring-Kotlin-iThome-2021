@@ -12,4 +12,4 @@
 * ss
 
 # References
-* 
+* https://medium.brobridge.com/%E7%95%B6-spring-cloud-%E9%81%87%E4%B8%8A-kubernetes-5bc9e6ce602f
