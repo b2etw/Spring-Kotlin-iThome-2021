@@ -6,7 +6,7 @@
   * unit test passed
   * integration test or other test
   * dump online database schema and data and import to test database
-  * (optional) database migration tool (Flyway or Fiquibase)
+  * (optional) database migration tool (Flyway or Liquibase)
   * run your integration test
 
 # Retro
