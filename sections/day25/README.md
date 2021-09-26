@@ -13,6 +13,7 @@
 * ss
 
 # References
+* https://martinfowler.com/bliki/TestPyramid.html
 * https://dotblogs.com.tw/hatelove/2013/01/11/learning-tdd-in-30-days-catalog-and-reference
 * https://dotblogs.com.tw/hatelove/2013/01/08/learning-tdd-in-30-days-day23-bdd-introduction
 * https://dotblogs.com.tw/hatelove/2013/01/09/learning-tdd-in-30-days-day24-bdd-specflow-introduction
