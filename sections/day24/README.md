@@ -16,3 +16,4 @@
 # References
 * https://www.blazemeter.com/blog/performance-testing-vs-load-testing-vs-stress-testing/
 * https://www.guru99.com/performance-vs-load-vs-stress-testing.html
+* https://www.itread01.com/content/1544080572.html
