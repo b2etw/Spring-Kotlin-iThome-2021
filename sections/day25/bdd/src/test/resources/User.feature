@@ -42,13 +42,13 @@ Feature: User Related
   # Use Case
   Scenario: End user add user with info
     # Arrange (parameter)
-    Given End user pass id "yyy654"
+    Given End user pass id 222
     And End user pass first name "Cassell"
     And End user pass last name "Hsu"
     And End user pass age 18
     And End user pass gender "BOY"
-    And End user pass e-mail "aaa@aaa.xyz"
     And End user pass phone "+886 987 123 456"
+    And End user pass e-mail "aaa@aaa.xyz"
     # Act (signature)
     When Add
     # Assert
