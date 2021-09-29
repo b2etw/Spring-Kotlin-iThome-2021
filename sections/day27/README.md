@@ -1,6 +1,7 @@
 # Day 27 Kubernetes
 * https://hackmd.io/@m_DutsiYQdSG0m1spz8yIQ/HJCteAazN
 * https://docs.spring.io/spring-cloud-kubernetes/docs/current/reference/html/
+* https://github.com/spring-cloud/spring-cloud-kubernetes/tree/main/spring-cloud-kubernetes-examples
 * demo
   * brew install k3d
   * brew install kubectl
