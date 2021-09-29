@@ -1,8 +1,10 @@
 # Day 27 Kubernetes
-* brew install k3d
-* brew install kubectl
-* k3d cluster create hello
-* k3d cluster delete hello
+* https://spring.io/projects/spring-cloud-kubernetes
+* demo
+  * brew install k3d
+  * brew install kubectl
+  * k3d cluster create hello
+  * k3d cluster delete hello
 
 # Retro
 * Q&A -> https://github.com/b2etw/Spring-Kotlin-iThome-2021/discussions
