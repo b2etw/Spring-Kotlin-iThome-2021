@@ -1,5 +1,9 @@
 # Day 29 Observability
-*
+* Metrics (Prometheus)
+* Log (Loki)
+* Tracing (jaeger)
+* ...
+ 
 
 # Retro
 * Q&A -> https://github.com/b2etw/Spring-Kotlin-iThome-2021/discussions
