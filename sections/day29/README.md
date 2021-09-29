@@ -1,8 +1,20 @@
 # Day 29 Observability
-* Metrics (Prometheus)
 * Log (Loki)
+* Metrics (Prometheus)
 * Tracing (jaeger)
-* ...
+* Real Case
+  * Application Log
+  * System Log
+  * Business Dashboard
+  * Tracing System
+  * Deployment Status
+  * E2E Monitoring
+  * Application Metrics
+  * Dependency Metrics
+  * 3rd Party Service Metrics
+  * System Metrics
+  * Network Metrics
+  * Database Metrics
  
 
 # Retro
