@@ -4,6 +4,8 @@
 * https://github.com/spring-cloud/spring-cloud-kubernetes
 * https://github.com/spring-cloud/spring-cloud-kubernetes/tree/main/spring-cloud-kubernetes-examples
 * demo
+  * https://k3d.io/v4.4.8/
+  * https://github.com/rancher/k3d 
   * brew install k3d
   * brew install kubectl
   * k3d cluster create hello
