@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: k8s
+  cloud:
+    kubernetes:
+      config:
+        name: ${spring.application.name}
+        namespace: default
+      reload:
+        enabled: true
+        mode: polling
+        period: 5000
