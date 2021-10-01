@@ -1,5 +1,5 @@
 # Day 29 Observability
-* Log (Loki)
+* Log (ELK)
 * Metrics (Prometheus)
 * Tracing (jaeger)
 * Real Case
@@ -16,7 +16,6 @@
   * Network Metrics
   * Database Metrics
  
-
 # Retro
 * Q&A -> https://github.com/b2etw/Spring-Kotlin-iThome-2021/discussions
 
