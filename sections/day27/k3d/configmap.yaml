@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: k8s
+  labels:
+    app: k8s
+data:
+  TZ: Asia/Taipei
+  SPRING_PROFILES_ACTIVE: k3d
+  application.yaml: |-
+    server:
+      port: 8080
+    custom:
+      name: kkkkk8s

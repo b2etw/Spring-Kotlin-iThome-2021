@@ -1,0 +1,52 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: k8s-v1
+  labels:
+    app: k8s
+    version: v1
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: k8s
+      version: v1
+  template:
+    metadata:
+      labels:
+        app: k8s
+        version: v1
+    spec:
+      containers:
+        - name: k8s
+          image: taiwanbackendgroup/k8s:0.0.1-SNAPSHOT
+          imagePullPolicy: Always
+          env:
+            - name: TZ
+              valueFrom:
+                configMapKeyRef:
+                  key: TZ
+                  name: k8s
+            - name: SPRING_PROFILES_ACTIVE
+              valueFrom:
+                configMapKeyRef:
+                  key: SPRING_PROFILES_ACTIVE
+                  name: k8s
+          readinessProbe:
+            httpGet:
+              path: /actuator/health
+              port: 7777
+            initialDelaySeconds: 60
+            periodSeconds: 30
+            timeoutSeconds: 3
+            failureThreshold: 3
+            successThreshold: 1
+          livenessProbe:
+            httpGet:
+              path: /actuator/health
+              port: 7777
+            initialDelaySeconds: 60
+            periodSeconds: 30
+            timeoutSeconds: 3
+            failureThreshold: 3
+            successThreshold: 1
