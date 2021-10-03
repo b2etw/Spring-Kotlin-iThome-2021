@@ -1,5 +1,6 @@
 # Day 29 Observability
 * Log, Metrics, Tracing
+* https://docs.google.com/presentation/d/1_b6ptxJ3N1MCWvOmDbJuT1Gq-EA-n9DgG_6rsBiQ6Ok/edit
 * Real Case
   * Application Log
   * System Log
