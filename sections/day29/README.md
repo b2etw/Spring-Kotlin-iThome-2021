@@ -1,8 +1,5 @@
 # Day 29 Observability
-* Log (ELK)
-  * https://github.com/logstash/logstash-logback-encoder
-* Metrics (Prometheus)
-* Tracing (jaeger)
+* Log, Metrics, Tracing
 * Real Case
   * Application Log
   * System Log
