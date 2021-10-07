@@ -20,7 +20,7 @@
 * Don't forget give me a star 😄
 
 # YouTube
-* ss
+* https://youtu.be/Ah1gReE98jg
 
 # References
 * https://spring.io/guides/gs/messaging-rabbitmq/

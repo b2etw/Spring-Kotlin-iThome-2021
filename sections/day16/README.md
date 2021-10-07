@@ -12,7 +12,7 @@
 * Don't forget give me a star 😄
 
 # YouTube
-* ss
+* https://youtu.be/fOjkWRr0nkY
 
 # References
 * https://jchu.cc/2018/05/05-kotlin.html

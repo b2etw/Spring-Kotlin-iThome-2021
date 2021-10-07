@@ -19,7 +19,7 @@
 * Don't forget give me a star 😄
 
 # YouTube
-* ss
+* https://youtu.be/EiCBs9sKvP8
 
 # References
 * https://www.tutorialspoint.com/mongodb/

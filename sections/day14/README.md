@@ -19,7 +19,7 @@
 * Don't forget give me a star 😄
 
 # YouTube
-* ss
+* https://youtu.be/o3aI3SY_3hw
 
 # References
 * https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/312313/

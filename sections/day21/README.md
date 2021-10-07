@@ -17,7 +17,7 @@
 * Don't forget give me a star 😄
 
 # YouTube
-* ss
+* https://youtu.be/T6-v9j1trm0
 
 # References
 * https://en.wikipedia.org/wiki/Streaming_Text_Oriented_Messaging_Protocol

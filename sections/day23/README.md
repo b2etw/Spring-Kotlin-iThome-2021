@@ -17,7 +17,7 @@
 * Don't forget give me a star 😄
 
 # YouTube
-* ss
+* https://youtu.be/1tqXKjVJR1o
 
 # References
 * https://www.softwaretestinghelp.com/types-of-software-testing/

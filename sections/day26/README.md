@@ -9,7 +9,7 @@
 * Don't forget give me a star 😄
 
 # YouTube
-* ss
+* https://youtu.be/QOZEavHtjKU
 
 # References
 * continue from [Day 25](https://github.com/b2etw/Spring-Kotlin-iThome-2021/tree/main/sections/day25) 

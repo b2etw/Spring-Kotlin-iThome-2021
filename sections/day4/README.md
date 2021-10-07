@@ -20,7 +20,8 @@
 * Don't forget give me a star 😄
 
 # YouTube
-* ss
+* https://youtu.be/f8n4X0MBql0
+* https://youtu.be/-5ECdm7mMIw
 
 # References
 * https://openhome.cc/Gossip/ServletJSP/

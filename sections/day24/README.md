@@ -11,7 +11,7 @@
 * Don't forget give me a star 😄
 
 # YouTube
-* ss
+* https://youtu.be/c3rvLVgq7iw
 
 # References
 * https://www.blazemeter.com/blog/performance-testing-vs-load-testing-vs-stress-testing/
